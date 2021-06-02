@@ -1,4 +1,6 @@
-## Réglement 
+
+
+## Reglement 
 
 ### Déroulement d’un match. 
 
