@@ -1,5 +1,5 @@
 
-![](babioles\Fiole de vie.png)
+![](/babioles/Fiole de vie.png)
 
 ![](babioles\Fleurs sechès.png)
 
