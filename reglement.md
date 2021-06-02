@@ -14,6 +14,16 @@ Le système de points casual récompense le jeu plus que la victoire et compte t
 
 Le mode de jeu influe sur les règles de points active ou non, rien n’empêche d’utiliser des decks CEDH en partie casual si la table le souhaite ou d’utiliser des decks “casual” en mode CEDH. Mais les joueurs CEDH souhaiteront certainement pouvoir jouer plus “librement”. 
 
+|                            | **CASUAL** | **CEDH** |
+| -------------------------- | ---------- | -------- |
+| *Points Traditionnel*      | X          | X        |
+| *Pénalités*                | X          | -        |
+| *Bonus & ROTD*             | X          | -        |
+| *Achat de temps & actions* | X          | -        |
+| *Don de points*            | X          | X        |
+| *Mulligan*                 | London     | London   |
+| *Mulligan gratuit*         | 2          | 1        |
+
 ### Points 
 
 Certaines actions durant le match rapportent ou font perdre des points. Ces points sont cumulables par joueur et par match, il est possible que le même joueur marque plusieurs fois le même point durant le même match. La seule exception à cette règle sont les points du jours qui ne peuvent être obtenu qu’une fois par match par joueur. 
@@ -35,6 +45,18 @@ Durant une partie, les joueurs peuvent donner des points a d’autres joueurs, p
 Des objets, appelé babioles, sont disponibles à l’achat auprès d’un TO et peuvent être acquis entre les parties en utilisant vos points. Le cout en point doit être disponible dans le solde de point du joueur au début de la journée de rencontre. Lors de l‘achat, un token vous sera donné. 
 
 Elles sont représentées dans le jeu par des emblèmes et peuvent être mise en jeu avant d’avoir pioché sa première main. Elles ne peuvent pas être mise en jeu en CEDH. Quand la babiole est utilisée, elle cesse d'exister, elle n’est ni détruite, ni exilée (ne trigger rien et ne va nulle par). Utiliser une babiole est une action spéciale et ne passe pas par la stack Son usage doit être reporté sur la feuille de score. 
+
+| **Cout** | **Effet**                                         | **Nom de l’objet** | **Cible**     |
+| -------- | ------------------------------------------------- | ------------------ | ------------- |
+| **2**    | Gagner 5 pv                                       | Flasque de vie     | You           |
+| **4**    | Exile la créature ciblée                          | Bâton du vide      | Target crea.  |
+| **2**    | Mulli gratuit, avec remise (si 6 cartes ou moins) | Fleurs sechés      | You           |
+| **4**    | Mulli à 7, avec remise 1                          | Racine étranges    | You           |
+| **2**    | Scry 1                                            | Monocle du savoir  | You           |
+| **4**    | Draw 1                                            | Tome du savoir     | You           |
+| **3**    | Fog                                               | Potion d’oubli     | Target player |
+| **5**    | Teferi’s Protection jusqu’a la prochaine upkeep   | Anneau sacré       | Target player |
+| **10**   | ???                                               | ???                | ???           |
 
 ### Feuille de score 
 
