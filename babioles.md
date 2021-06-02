@@ -1,18 +1,18 @@
 
-![](/babioles/Fiole de vie.png)
+![](babioles/Fiole%20de%20vie.png)
 
-![](babioles\Fleurs sechès.png)
+![](babioles/Fleurs%20sechès.png)
 
-![](babioles\Monocle des pensés.png)
+![](babioles/Monocle%20des%20pensés.png)
 
-![](babioles\Baton du vide.png)
+![](babioles/Baton%20du%20vide.png)
 
-![](babioles\Potion doubli.png)
+![](babioles/Potion%20doubli.png)
 
-![](babioles\Racine étrange.png)
+![](babioles/Racine%20étrange.png)
 
-![](babioles\Tome de préscience.png)
+![](babioles/Tome%20de%20préscience.png)
 
-![](babioles\Faveur des dieux.png)
+![](babioles/Faveur%20des%20dieux.png)
 
-![](babioles\La fin.png)
+![](babioles/La%20fin.png)
