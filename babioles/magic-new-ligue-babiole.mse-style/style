@@ -463,7 +463,7 @@ extra card style:
 		left: 15
 		top : 15
 		width:	345
-		height:	520
+		height:	513
 		z index: 2
 		render style: image
 		mask: blend_2_card.png
