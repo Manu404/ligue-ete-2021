@@ -10,9 +10,9 @@ Pour lancer un match, les joueurs doivent s’être mis d’accord sur le mode d
 
 Il est possible de jouer en mode casual ou CEDH. L’ensemble des joueurs de la table doit se mettre d’accord sur le mode de jeu avant de débuter la partie. Le mode de jeu devra être indiqué sur la feuille de score. 
 
-En CEDH, uniquement les points « Traditionnel » sont actifs, il n’y a pas de pénalités et il n’est pas possible d’acheter ni du temps, ni des actions, les régles du jour (ROTD) ne sont pas active. London mulligan avec un mulli gratuit, draw au premier tour sauf premier joueur. 
+En CEDH, uniquement les points « Traditionnel » sont actifs, il n’y a pas de pénalités et il n’est pas possible d’acheter ni du temps, ni des actions, les régles du jour (ROTD) ne sont pas active. London mulligan avec un mulli gratuit, draw au premier tour. 
 
-Le système de points casual récompense le jeu plus que la victoire et compte toutes les règles de points et les parties peuvent durer plus de 2h (cf. Temps). Dans ce mode, il peut être intéressant de s’accorder sur un powerlevel “équilibré” entre les joueurs. London mulligan avec deux mulligan gratuit, draw au premier tour sauf premier joueur.  
+Le système de points casual récompense le jeu plus que la victoire et compte toutes les règles de points et les parties peuvent durer plus de 2h (cf. Temps). Dans ce mode, il peut être intéressant de s’accorder sur un powerlevel “équilibré” entre les joueurs. London mulligan avec deux mulligan gratuit, draw au premier tour.  
 
 Le mode de jeu influe sur les règles de points active ou non, rien n’empêche d’utiliser des decks CEDH en partie casual si la table le souhaite ou d’utiliser des decks “casual” en mode CEDH. Mais les joueurs CEDH souhaiteront certainement pouvoir jouer plus “librement”. 
 

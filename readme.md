@@ -104,9 +104,9 @@ Pour lancer un match, les joueurs doivent s’être mis d’accord sur le mode d
 
 Il est possible de jouer en mode casual ou CEDH. L’ensemble des joueurs de la table doit se mettre d’accord sur le mode de jeu avant de débuter la partie. Le mode de jeu devra être indiqué sur la feuille de score. 
 
-En CEDH, uniquement les points « Traditionnel » sont actifs, il n’y a pas de pénalités et il n’est pas possible d’acheter ni du temps, ni des actions, les régles du jour (ROTD) ne sont pas active. London mulligan avec un mulli gratuit, draw au premier tour sauf premier joueur. 
+En CEDH, uniquement les points « Traditionnel » sont actifs, il n’y a pas de pénalités et il n’est pas possible d’acheter ni du temps, ni des actions, les régles du jour (ROTD) ne sont pas active. London mulligan avec un mulli gratuit, draw au premier tour. 
 
-Le système de points casual récompense le jeu plus que la victoire et compte toutes les règles de points et les parties peuvent durer plus de 2h (cf. Temps). Dans ce mode, il peut être intéressant de s’accorder sur un powerlevel “équilibré” entre les joueurs. London mulligan avec deux mulligan gratuit, draw au premier tour sauf premier joueur.  
+Le système de points casual récompense le jeu plus que la victoire et compte toutes les règles de points et les parties peuvent durer plus de 2h (cf. Temps). Dans ce mode, il peut être intéressant de s’accorder sur un powerlevel “équilibré” entre les joueurs. London mulligan avec deux mulligan gratuit, draw au premier tour.  
 
 Le mode de jeu influe sur les règles de points active ou non, rien n’empêche d’utiliser des decks CEDH en partie casual si la table le souhaite ou d’utiliser des decks “casual” en mode CEDH. Mais les joueurs CEDH souhaiteront certainement pouvoir jouer plus “librement”. 
 
@@ -205,7 +205,6 @@ Dans le cas d’une partie CEDH, aucune extension de temps ne peut être acheté
 | **+2** | Cruel mais efficace   | Tuer un joueur autrement qu’en reduisant sa vie à 0          |
 | **+1** | Tiens bon!            | Empecher un joueur de mourir                                 |
 | **+1** | Generalissimo         | Tuer un joueur aux dégats commandeurs                        |
-| **+1** | Jolie tentative       | Perdre au time                                               |
 | **+1** | Sang frais            | Eliminer un adversaire avec une carte éditée pour la première fois à partir de strixhaven. |
 | **+1** | Caffard               | Survivre à un tour ou plusieurs joueurs sont mort, sans être responsible de leur mort. |
 | **+1** | Chevalier Arc-en-ciel | Gagner avec un commandant 5C                                 |

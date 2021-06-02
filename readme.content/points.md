@@ -39,7 +39,6 @@
 | **+2** | Cruel mais efficace   | Tuer un joueur autrement qu’en reduisant sa vie à 0          |
 | **+1** | Tiens bon!            | Empecher un joueur de mourir                                 |
 | **+1** | Generalissimo         | Tuer un joueur aux dégats commandeurs                        |
-| **+1** | Jolie tentative       | Perdre au time                                               |
 | **+1** | Sang frais            | Eliminer un adversaire avec une carte éditée pour la première fois à partir de strixhaven. |
 | **+1** | Caffard               | Survivre à un tour ou plusieurs joueurs sont mort, sans être responsible de leur mort. |
 | **+1** | Chevalier Arc-en-ciel | Gagner avec un commandant 5C                                 |
