@@ -1,3 +1,4 @@
+
 # Ligue été 2021
 
 ![](resources/l21Logo.png)
@@ -33,7 +34,7 @@ Les rencontres ont lieu chez Greg les <jour 1> et <jour 2> de chaque semaine sur
 
 ### Invités 
 
-Il est possible pour un joueur non inscrit a la ligue de participer, sur acceptation préalable d’un TO. Dans ce cas, 2€ seront demandé au participant en échange de la possibilité de jouer, il pourra aussi choisir une boisson et un snack (cfr “Organisation - L’échoppe de Karadoc”). Cf. “Règlement - Points”. 
+Il est possible pour un joueur non inscrit à la ligue de participer, sur acceptation préalable d’un TO. Dans ce cas, 2€ seront demandé au participant en échange de la possibilité de jouer, il pourra aussi choisir une boisson et un snack (cfr “Organisation - L’échoppe de Karadoc”). Cfr. “Règlement - Points”. 
 
 ### Accès aux résultats 
 
@@ -43,11 +44,11 @@ Les résultats seront mis en ligne au fur et à mesure le plus rapidement possib
 
 ### Prizing 
 
-Chaque joueur pourra, par ordre de classement, prendre une carte dans le prizing disponible. Le prizing présenté plus loin est trié par ordre de prix à titre indicatif. Aussi, des tokens, liés au classement, seront remis au top3. Le vainqueur se verra également remettre un trophée porte carte (identique a celui remis lors de la précédente ligue). Le prizing sera remis début aout aux joueurs par ordre de classement. 
+Chaque joueur pourra, par ordre de classement, prendre une carte dans le prizing disponible. Le prizing présenté plus loin est trié par ordre de prix à titre indicatif. Aussi, des tokens, liés au classement, seront remis au top3. Le vainqueur se verra également remettre un trophée porte-carte (identique à celui remis lors de la précédente ligue). Le prizing sera remis début aout aux joueurs par ordre de classement. 
 
 ### Materiel 
 
-Une boite, contenant des portes mines/crayons/gommes pour remplir les feuilles de score et des rappels imprimé et plastifié des règles et points, est mise à disposition. Prenez soin du matériel et veillez à le laisser dans la salle de jeu. A la fin de la journée, n’hésitez pas à rapporter le matériel à porté dans la boite. 
+Une boite, contenant des portes-mines/crayons/gommes pour remplir les feuilles de score et des rappels imprimé et plastifié des règles ainsi que des points, seront mit à disposition. Prenez soin du matériel et veillez à le laisser dans la salle de jeu. À la fin de la journée, n’hésitez pas à ramener le matériel dans la boite prevue a cet effet. 
 
 ### Pot commun 
 
@@ -63,7 +64,7 @@ Par exemple si chaque joueur met 2€ quand il vient, en plus de son snack et bo
 
 ### L'échoppe de Karadoc 
 
-Des boissons et à grignoter sont proposé à prix libre en teste, les prix d’achats et un prix conseillé sont indiqué. Les bénéfices vont intégralement dans le pot commun. Le paiement peut se faire auprès d’un TO en liquide, via le compte qui a servi à l’inscription ou via application mobile. Les ardoises sont autorisées, en évitant les abus, et devront être soldé pour la fin de la ligue.  Les “stocks” seront assuré et mis à jours selon la consommation et envies des participants. Les joueurs restent libre de prendre leurs boissons et snacks.  
+Des boissons et à grignoter sont proposé à prix libre en test, les prix d’achats et un prix conseillé sont indiqué. Les bénéfices vont intégralement dans le pot commun. Le paiement peut se faire auprès d’un TO en liquide, via le compte qui a servi à l’inscription ou via application mobile. Les ardoises sont autorisées, en évitant les abus, et devront être soldé pour la fin de la ligue.  Les “stocks” seront assuré et mis à jours selon la consommation et envies des participants. Les joueurs restent libre de prendre leurs boissons et snacks.  
 
 Par exemple, si chaque joueur prend un soft et un snack/présence (1.5€, 0.5€ vont dans le pot commun) et qu’il n’y a chaque fois que 4 joueur de présents, 4 semaines * 2 jours * 4 joueurs = 16€ reporté sur la ligue suivante et des joueurs rafraichi et temporairement repu.  
 
@@ -74,11 +75,11 @@ Par exemple, si chaque joueur prend un soft et un snack/présence (1.5€, 0.5�
 | Ice TEA 33CL                                                 | 0.76 / 0.65                                    | 1                  |
 | Jupiler 25cl                                                 | 0.53 / 0.43                                    | 1                  |
 | Red bull 25CL                                                | 1.14 / 1                                       | 2                  |
-| MoNSTER 50CL                                                 | 1.39 / 1.30                                    | 2                  |
+| Monster 50CL                                                 | 1.39 / 1.30                                    | 2                  |
 | Bouteille d’eau 50cl                                         | 0.13 / 0.13                                    | 0.5                |
 |                                                              |                                                |                    |
 | Pomme                                                        | 0.36                                           | 0.5                |
-| RaisINs BLANC (250gr, demi ravier)                           | 0.85                                           | 1                  |
+| Raisins BLANC (250gr, demi ravier)                           | 0.85                                           | 1                  |
 | Banane                                                       | 0.16                                           | 0.5                |
 |                                                              |                                                |                    |
 | Petit Chips (Sel, paprika, ketchup, grills, buggles, cheetos) | 0.23 / 0.23                                    | 0.5                |
@@ -100,13 +101,13 @@ Par exemple, si chaque joueur prend un soft et un snack/présence (1.5€, 0.5�
 
 Pour lancer un match, les joueurs doivent s’être mis d’accord sur le mode de jeu, ensuite une feuille de score pourra être demandé au TO et remplie par les joueurs. Quand les joueurs sont prêts, le TO lance le match en même temps que le timer, le temps est surveillé par le TO. Quand le match est fini, la feuille devra être vérifié et signée par tous les joueurs de la table et rendue au TO. 
 
-### Modes de jeu : Casual et CEDH 
+### Modes de jeu : Casual et cEDH 
 
-Il est possible de jouer en mode casual ou CEDH. L’ensemble des joueurs de la table doit se mettre d’accord sur le mode de jeu avant de débuter la partie. Le mode de jeu devra être indiqué sur la feuille de score. 
+Il est possible de jouer en mode casual ou mode cEDH. L’ensemble des joueurs de la table doit se mettre d’accord sur le mode de jeu avant de débuter la partie. Le mode de jeu devra être indiqué sur la feuille de score. 
 
-En CEDH, uniquement les points « Traditionnel » sont actifs, il n’y a pas de pénalités et il n’est pas possible d’acheter ni du temps, ni des actions, les régles du jour (ROTD) ne sont pas active. London mulligan avec un mulli gratuit, draw au premier tour. 
+En mode cEDH, uniquement les points « Traditionnel » sont actifs, il n’y a pas de pénalités et il n’est pas possible d’acheter ni du temps, ni des actions, les régles du jour (ROTD) ne sont pas active. London mulligan avec un mulli gratuit, draw au premier tour. 
 
-Le système de points casual récompense le jeu plus que la victoire et compte toutes les règles de points et les parties peuvent durer plus de 2h (cf. Temps). Dans ce mode, il peut être intéressant de s’accorder sur un powerlevel “équilibré” entre les joueurs. London mulligan avec deux mulligan gratuit, draw au premier tour.  
+Le mode casual récompense le jeu plus que la victoire et comporte donc toutes les règles de points. Les parties peuvent durer plus de 2h (cf. Temps). Dans ce mode, il peut être intéressant de s’accorder sur un powerlevel “équilibré” entre les joueurs. Le London mulligan est d'application, toutefois avec deux mulligan gratuit au lieu d'un seul, draw au premier tour.  
 
 Le mode de jeu influe sur les règles de points active ou non, rien n’empêche d’utiliser des decks CEDH en partie casual si la table le souhaite ou d’utiliser des decks “casual” en mode CEDH. Mais les joueurs CEDH souhaiteront certainement pouvoir jouer plus “librement”. 
 
@@ -124,7 +125,7 @@ Le mode de jeu influe sur les règles de points active ou non, rien n’empêche
 
 Certaines actions durant le match rapportent ou font perdre des points. Ces points sont cumulables par joueur et par match, il est possible que le même joueur marque plusieurs fois le même point durant le même match. La seule exception à cette règle sont les points du jours qui ne peuvent être obtenu qu’une fois par match par joueur. 
 
-Si un invité a pris part au match, A la fin du match, chaque adversaire de ce joueur gagne un nombre de point egal aux points de ce joueur divisé par le nombre de ses adversaires arrondi a l’inférieur. 
+Si un invité a pris part au match, à la fin de celui-ci, chaque adversaire de ce joueur gagne un nombre de point egal aux points de ce joueur divisé par le nombre de ses adversaires arrondi a l’inférieur. 
 
 Par exemple, un invité gagne 5 points et à terminé un match contre 3 autres joueurs, chaque joueur gagne 1 point 
 
@@ -134,7 +135,7 @@ Au début de chaque journée de rencontre, 3 règles de la liste ROTD sont tiré
 
 ### Don de points 
 
-Durant une partie, les joueurs peuvent donner des points a d’autres joueurs, par exemple en échange de certaines actions. Le nombre total de points pouvant être donné durant une partie est limité à 5 et ils doivent être disponible au début de la journée de rencontre. Un don est point est traité comme une action spéciale. Pour utiliser cette action, vous devez appeler un TO présent. Ces dons sont possible en CEDH et en casual. 
+Durant une partie, les joueurs peuvent donner des points à d’autres joueurs, par exemple en échange de certaines actions. Le nombre total de points pouvant être donné durant une partie est limité à 5 et ils doivent être disponible au début de la journée de rencontre. Un don est point est traité comme une action spéciale. Pour utiliser cette action, vous devez appeler un TO présent. Ces dons sont possible en CEDH et en casual. 
 
 ### Babioles 
 
@@ -156,7 +157,7 @@ Les babioles sont représentées par des emblèmes et peuvent être mise en jeu,
 
 ### Feuille de score 
 
-Une feuille de score par match sera obtenue auprès d’un TO. La table devra remplir le nom des joueurs et le mode de jeu choisit avant de débuter la partie. A la fin de la partie chaque joueur devra signer ou parapher la feuille avant de la rendre. Gardez la propre, clair et lisible. La table est responsable de tenir la feuille à jour durant la partie. Quand un point est marqué un trait doit être indiqué à l’intersection de la ligne et colonne correspondante. Les ligne grisée concernent des points qui peuvent être vérifié en fin de partie. Les 3 lignes du fond concernent les points du jours (cf. Points du jour) N’écrivez qu’au crayon ou encre effaçable pour conserver les feuilles lisibles. (portes mine fourni) 
+Une feuille de score par match sera obtenue auprès d’un TO. La table devra remplir le nom des joueurs et le mode de jeu choisit avant de débuter la partie. À la fin de la partie chaque joueur devra signer ou parapher la feuille avant de la rendre. Gardez la propre, clair et lisible. La table est responsable de tenir la feuille à jour durant la partie. Quand un point est marqué un trait doit être indiqué à l’intersection de la ligne et colonne correspondante. Les ligne grisée concernent des points qui peuvent être vérifié en fin de partie. Les 3 lignes du fond concernent les points du jours (cf. Points du jour) N’écrivez qu’au crayon ou encre effaçable pour conserver les feuilles lisibles. (portes mine fourni) 
 
 ### Temps 
 
@@ -256,4 +257,4 @@ Cfr règlement règles du jours, +1 points chacun (sauf jour de colère et jour 
 | **17**  | Dolorisme            | Recevoir 10 dégâts provenant de sources contrôlé par soit    |
 | **18**  | Drogono              | Terminer la partie en ayant joué moins de 5 sorts passé le tour 6 |
 | **19**  | Indiana Jones        | Contrôler plus de 8 artefacts                                |
-| **20**  | Jour de chance       | A la fin de la partie, chaque joueur, par ordre de priorité, a le choix de faire gagner un point a un autre joueur. |
+| **20**  | Jour de chance       | À la fin de la partie, chaque joueur, par ordre de priorité, a le choix de faire gagner un point a un autre joueur. |
