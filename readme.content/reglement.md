@@ -42,7 +42,7 @@ Au début de chaque journée de rencontre, 3 règles de la liste ROTD sont tiré
 
 Durant une partie, les joueurs peuvent donner des points a d’autres joueurs, par exemple en échange de certaines actions. Le nombre total de points pouvant être donné durant une partie est limité à 5 et ils doivent être disponible au début de la journée de rencontre. Un don est point est traité comme une action spéciale. Pour utiliser cette action, vous devez appeler un TO présent. Ces dons sont possible en CEDH et en casual. 
 
-### L’achat de babioles 
+### Babioles 
 
 Des objets, appelé babioles, sont disponibles à l’achat auprès d’un TO et peuvent être acquis entre les parties en dépensant vos points. Le cout en point doit être disponible dans le solde du joueur au début de la journée de rencontre. Lors de l‘achat le token représentant la babiole vous sera donné. 
 
