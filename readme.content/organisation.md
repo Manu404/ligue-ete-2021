@@ -18,7 +18,7 @@ Les rencontres ont lieu chez Greg les <jour 1> et <jour 2> de chaque semaine sur
 
 ### Invités 
 
-Il est possible pour un joueur non inscrit a la ligue de participer, sur acceptation préalable d’un TO. Dans ce cas, 2€ seront demandé au participant en échange de la possibilité de jouer, il pourra aussi choisir une boisson et un snack (cfr “Organisation - L’échope de Karadoc”). Cf. “Règlement - Points”. 
+Il est possible pour un joueur non inscrit a la ligue de participer, sur acceptation préalable d’un TO. Dans ce cas, 2€ seront demandé au participant en échange de la possibilité de jouer, il pourra aussi choisir une boisson et un snack (cfr “Organisation - L’échoppe de Karadoc”). Cf. “Règlement - Points”. 
 
 ### Accès aux résultats 
 
@@ -46,7 +46,7 @@ Selon les retours et le déroulement, ce système sera adapté ou abandonné pou
 
 Par exemple si chaque joueur met 2€ quand il vient, en plus de son snack et boisson, en comptant “que” 4 joueurs présent par jours de rencontre: 4 semaines * 2 jours * 4 joueurs * (2€ - (prix coutant)) = 32€, mis dans le pot commun, soit plus de la moitié des fonds disponible de cette édition. 
 
-### L’échope de Karadoc 
+### L'échoppe de Karadoc 
 
 Des boissons et à grignoter sont proposé à prix libre en teste, les prix d’achats et un prix conseillé sont indiqué. Les bénéfices vont intégralement dans le pot commun. Le paiement peut se faire auprès d’un TO en liquide, via le compte qui a servi à l’inscription ou via application mobile. Les ardoises sont autorisées, en évitant les abus, et devront être soldé pour la fin de la ligue.  Les “stocks” seront assuré et mis à jours selon la consommation et envies des participants. Les joueurs restent libre de prendre leurs boissons et snacks.  
 
@@ -77,4 +77,4 @@ Par exemple, si chaque joueur prend un soft et un snack/présence (1.5€, 0.5�
 | GL HF  1 snack au choix par joueur à table, uniquement durant une partie | +/- 1                                          | 1.5                |
 | POT de VIN   assortiment haribo 100gr, uniquement durant une partie | 2.35                                           | 3.5                |
 | Offre généreuse  20 mini snickers, twix, bounty, mars, mily way, uniquement durant une partie | / 2.89                                         | 4                  |
-| Tournée de la victoire   4 soft ou bierres et 4 snacks ou fruits, ne peut s’acheter qu'a la fin d’une partie | +/- 3.5                                        | 5                  |
+| Tournée de la victoire   4 soft ou bières et 4 snacks ou fruits, ne peut s’acheter qu'a la fin d’une partie | +/- 3.5                                        | 5                  |

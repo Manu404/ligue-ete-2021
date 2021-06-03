@@ -40,13 +40,13 @@ Au début de chaque journée de rencontre, 3 règles de la liste ROTD sont tiré
 
 ### Don de points 
 
-Durant une partie, les joueurs peuvent donner des points a d’autres joueurs, par exemple en échange de certaines actions. Le nombre de points total pouvant être donné durant une partie est limité à 5 et ils doivent être disponible au début de la journée de rencontre. Pour utiliser cette action, vous devez appeler un TO présent. Ces dons sont possibles en CEDH. 
+Durant une partie, les joueurs peuvent donner des points a d’autres joueurs, par exemple en échange de certaines actions. Le nombre total de points pouvant être donné durant une partie est limité à 5 et ils doivent être disponible au début de la journée de rencontre. Un don est point est traité comme une action spéciale. Pour utiliser cette action, vous devez appeler un TO présent. Ces dons sont possible en CEDH et en casual. 
 
 ### L’achat de babioles 
 
-Des objets, appelé babioles, sont disponibles à l’achat auprès d’un TO et peuvent être acquis entre les parties en utilisant vos points. Le cout en point doit être disponible dans le solde de point du joueur au début de la journée de rencontre. Lors de l‘achat, un token vous sera donné. 
+Des objets, appelé babioles, sont disponibles à l’achat auprès d’un TO et peuvent être acquis entre les parties en dépensant vos points. Le cout en point doit être disponible dans le solde du joueur au début de la journée de rencontre. Lors de l‘achat le token représentant la babiole vous sera donné. 
 
-Elles sont représentées dans le jeu par des emblèmes et peuvent être mise en jeu avant d’avoir pioché sa première main. Elles ne peuvent pas être mise en jeu en CEDH. Quand la babiole est utilisée, elle cesse d'exister, elle n’est ni détruite, ni exilée (ne trigger rien et ne va nulle par). Utiliser une babiole est une action spéciale et ne passe pas par la stack Son usage doit être reporté sur la feuille de score. 
+Les babioles sont représentées par des emblèmes et peuvent être mise en jeu, dans la zone de commandement, avant d’avoir pioché sa première main. Chaque joueur doit annoncer qu'il a mis une babiole en jeu. Elles ne peuvent pas être mise en jeu en CEDH. Quand la babiole est utilisée, elle cesse d'exister, elle n’est ni détruite, ni exilée (ne trigger rien et ne va nulle par). Utiliser une babiole est une action spéciale et ne passe donc pas par la stack. Son usage doit être reporté sur la feuille de score. 
 
 | **Cout** | **Effet**                                         | **Nom de l’objet** | **Cible**     |
 | -------- | ------------------------------------------------- | ------------------ | ------------- |
@@ -68,6 +68,8 @@ Une feuille de score par match sera obtenue auprès d’un TO. La table devra re
 
 La limite de temps est de 2H par match. Le temps est surveillé par le TO qui a lancé la table.  
 
-Dans le cas d’une partie casual, si la limite de temps est atteinte, il est possible d’étendre le match en achetant une extension temps de de 30minutes auprès TO. Le cout de l’extension est égal a 1 + le nombre d’extension de temps précédemment acheté durant la partie (“cumulative cost”). Plusieurs joueurs peuvent aider à payer le cout. Si l’extension est achetée, elle est noté sur la feuille de score et le timer est relancé par le TO. Dans le cas où une extension de temps n’est pas achetée ou que le TO la refuse (pour respecter de possibles contraintes de temps), chaque joueur non éliminé reçoit un point et le match est déclaré draw. 
+Dans le cas d’une partie casual, si la limite de temps est atteinte, il est possible d’étendre le match en achetant une extension temps de de 30minutes auprès TO. L'ensemble des joueurs de la table doivent être d'accord. Le cout de l’extension est egal au nombre de joueur toujours a table multiplié par 1 + le nombre d’extension de temps précédemment acheté durant la partie (“cumulative cost”). Plusieurs joueurs peuvent aider à payer le cout. Si l’extension est achetée, elle est noté sur la feuille de score et le timer est relancé par le TO. Dans le cas où une extension de temps n’est pas achetée ou que le TO la refuse (pour respecter de possibles contraintes de temps), chaque joueur non éliminé reçoit un point et le match est déclaré draw. 
+
+Par exemple, il reste 3 joueurs a table et ils veulent acheter une troisième extension de 30 minutes, le cout en points est égal à 3 * (1 + 2) = 9
 
 Dans le cas d’une partie CEDH, aucune extension de temps ne peut être achetée et les joueurs ne reçoivent pas de points supplémentaires en cas de draw.

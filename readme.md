@@ -33,7 +33,7 @@ Les rencontres ont lieu chez Greg les <jour 1> et <jour 2> de chaque semaine sur
 
 ### Invités 
 
-Il est possible pour un joueur non inscrit a la ligue de participer, sur acceptation préalable d’un TO. Dans ce cas, 2€ seront demandé au participant en échange de la possibilité de jouer, il pourra aussi choisir une boisson et un snack (cfr “Organisation - L’échope de Karadoc”). Cf. “Règlement - Points”. 
+Il est possible pour un joueur non inscrit a la ligue de participer, sur acceptation préalable d’un TO. Dans ce cas, 2€ seront demandé au participant en échange de la possibilité de jouer, il pourra aussi choisir une boisson et un snack (cfr “Organisation - L’échoppe de Karadoc”). Cf. “Règlement - Points”. 
 
 ### Accès aux résultats 
 
@@ -61,7 +61,7 @@ Selon les retours et le déroulement, ce système sera adapté ou abandonné pou
 
 Par exemple si chaque joueur met 2€ quand il vient, en plus de son snack et boisson, en comptant “que” 4 joueurs présent par jours de rencontre: 4 semaines * 2 jours * 4 joueurs * (2€ - (prix coutant)) = 32€, mis dans le pot commun, soit plus de la moitié des fonds disponible de cette édition. 
 
-### L’échope de Karadoc 
+### L'échoppe de Karadoc 
 
 Des boissons et à grignoter sont proposé à prix libre en teste, les prix d’achats et un prix conseillé sont indiqué. Les bénéfices vont intégralement dans le pot commun. Le paiement peut se faire auprès d’un TO en liquide, via le compte qui a servi à l’inscription ou via application mobile. Les ardoises sont autorisées, en évitant les abus, et devront être soldé pour la fin de la ligue.  Les “stocks” seront assuré et mis à jours selon la consommation et envies des participants. Les joueurs restent libre de prendre leurs boissons et snacks.  
 
@@ -92,7 +92,7 @@ Par exemple, si chaque joueur prend un soft et un snack/présence (1.5€, 0.5�
 | GL HF  1 snack au choix par joueur à table, uniquement durant une partie | +/- 1                                          | 1.5                |
 | POT de VIN   assortiment haribo 100gr, uniquement durant une partie | 2.35                                           | 3.5                |
 | Offre généreuse  20 mini snickers, twix, bounty, mars, mily way, uniquement durant une partie | / 2.89                                         | 4                  |
-| Tournée de la victoire   4 soft ou bierres et 4 snacks ou fruits, ne peut s’acheter qu'a la fin d’une partie | +/- 3.5                                        | 5                  |
+| Tournée de la victoire   4 soft ou bières et 4 snacks ou fruits, ne peut s’acheter qu'a la fin d’une partie | +/- 3.5                                        | 5                  |
 
 ## Reglement 
 
@@ -134,13 +134,13 @@ Au début de chaque journée de rencontre, 3 règles de la liste ROTD sont tiré
 
 ### Don de points 
 
-Durant une partie, les joueurs peuvent donner des points a d’autres joueurs, par exemple en échange de certaines actions. Le nombre de points total pouvant être donné durant une partie est limité à 5 et ils doivent être disponible au début de la journée de rencontre. Pour utiliser cette action, vous devez appeler un TO présent. Ces dons sont possibles en CEDH. 
+Durant une partie, les joueurs peuvent donner des points a d’autres joueurs, par exemple en échange de certaines actions. Le nombre total de points pouvant être donné durant une partie est limité à 5 et ils doivent être disponible au début de la journée de rencontre. Un don est point est traité comme une action spéciale. Pour utiliser cette action, vous devez appeler un TO présent. Ces dons sont possible en CEDH et en casual. 
 
 ### L’achat de babioles 
 
-Des objets, appelé babioles, sont disponibles à l’achat auprès d’un TO et peuvent être acquis entre les parties en utilisant vos points. Le cout en point doit être disponible dans le solde de point du joueur au début de la journée de rencontre. Lors de l‘achat, un token vous sera donné. 
+Des objets, appelé babioles, sont disponibles à l’achat auprès d’un TO et peuvent être acquis entre les parties en dépensant vos points. Le cout en point doit être disponible dans le solde du joueur au début de la journée de rencontre. Lors de l‘achat le token représentant la babiole vous sera donné. 
 
-Elles sont représentées dans le jeu par des emblèmes et peuvent être mise en jeu avant d’avoir pioché sa première main. Elles ne peuvent pas être mise en jeu en CEDH. Quand la babiole est utilisée, elle cesse d'exister, elle n’est ni détruite, ni exilée (ne trigger rien et ne va nulle par). Utiliser une babiole est une action spéciale et ne passe pas par la stack Son usage doit être reporté sur la feuille de score. 
+Les babioles sont représentées par des emblèmes et peuvent être mise en jeu, dans la zone de commandement, avant d’avoir pioché sa première main. Chaque joueur doit annoncer qu'il a mis une babiole en jeu. Elles ne peuvent pas être mise en jeu en CEDH. Quand la babiole est utilisée, elle cesse d'exister, elle n’est ni détruite, ni exilée (ne trigger rien et ne va nulle par). Utiliser une babiole est une action spéciale et ne passe donc pas par la stack. Son usage doit être reporté sur la feuille de score. 
 
 | **Cout** | **Effet**                                         | **Nom de l’objet** | **Cible**     |
 | -------- | ------------------------------------------------- | ------------------ | ------------- |
@@ -162,7 +162,9 @@ Une feuille de score par match sera obtenue auprès d’un TO. La table devra re
 
 La limite de temps est de 2H par match. Le temps est surveillé par le TO qui a lancé la table.  
 
-Dans le cas d’une partie casual, si la limite de temps est atteinte, il est possible d’étendre le match en achetant une extension temps de de 30minutes auprès TO. Le cout de l’extension est égal a 1 + le nombre d’extension de temps précédemment acheté durant la partie (“cumulative cost”). Plusieurs joueurs peuvent aider à payer le cout. Si l’extension est achetée, elle est noté sur la feuille de score et le timer est relancé par le TO. Dans le cas où une extension de temps n’est pas achetée ou que le TO la refuse (pour respecter de possibles contraintes de temps), chaque joueur non éliminé reçoit un point et le match est déclaré draw. 
+Dans le cas d’une partie casual, si la limite de temps est atteinte, il est possible d’étendre le match en achetant une extension temps de de 30minutes auprès TO. L'ensemble des joueurs de la table doivent être d'accord. Le cout de l’extension est egal au nombre de joueur toujours a table multiplié par 1 + le nombre d’extension de temps précédemment acheté durant la partie (“cumulative cost”). Plusieurs joueurs peuvent aider à payer le cout. Si l’extension est achetée, elle est noté sur la feuille de score et le timer est relancé par le TO. Dans le cas où une extension de temps n’est pas achetée ou que le TO la refuse (pour respecter de possibles contraintes de temps), chaque joueur non éliminé reçoit un point et le match est déclaré draw. 
+
+Par exemple, il reste 3 joueurs a table et ils veulent acheter une troisième extension de 30 minutes, le cout en points est égal à 3 * (1 + 2) = 9
 
 Dans le cas d’une partie CEDH, aucune extension de temps ne peut être achetée et les joueurs ne reçoivent pas de points supplémentaires en cas de draw.
 
@@ -175,20 +177,20 @@ Dans le cas d’une partie CEDH, aucune extension de temps ne peut être acheté
 | **+2** | Dernier debout        | Gagner la partie                                             |
 | **+1** | Tu sors!              | Eliminer un joueur                                           |
 | **+1** | A la table des grands | Jouer dans une partie CEDH                                   |
-| **+1** | On ferme!             | Etre éliminé au time en partie casual ou être contraint par TO d’arreter la partie |
+| **+1** | On ferme!             | Etre éliminé au time en partie casual ou être contraint par TO arrêter la partie |
 
 ### Pénalités (casual) 
 
 |        | **Nom**                    | **Description**                                              |
 | ------ | -------------------------- | ------------------------------------------------------------ |
-| **-2** | Gouffre                    | Detruire/lock la moitié des lands d’un joueur ou une couleur |
+| **-2** | Gouffre                    | Détruire/lock la moitié des lands d’un joueur ou une couleur |
 | **-2** | Greedy McGreederson        | Jouer 3 tours d’affilé                                       |
 | **-2** | Je veux jouer aussi!       | Controller le même joueur deux tour d’affilé                 |
 | **-1** | Rien de neuf?              | Jouer le même sort 3 fois durant le même tour                |
 | **-1** | Ma main !?                 | Faire qu’un joueur se défausse de sa main (plus de 2 cartes) |
 | **-1** | Cancer toxique             | Eliminer plus d’un adversaire avec des marqueurs poisons     |
-| **-1** | Du calme!                  | Jouer plus d’un sort durant son premier tour                 |
-| **-2** | Lache                      | Abandonner durant le tour d’un adversaire ou a des fins stratégiques |
+| **-1** | Du calme!                  | Jouer plus de deux sorts durant son premier tour             |
+| **-2** | Lâche                      | Abandonner durant le tour d’un adversaire ou a des fins stratégiques |
 | **-1** | Je veux voir votre manager | Gagner sans avoir jouer son commandant                       |
 | **-2** | Infanticide                | Tuer un joueur avant son 6éme tour                           |
 | **-4** | Buzz                       | Gagner avant le 6éme tour d’un joueur                        |
@@ -198,18 +200,17 @@ Dans le cas d’une partie CEDH, aucune extension de temps ne peut être acheté
 
 ### Bonus (casual) 
 
-|        | **Nom**               | **Description**                                              |
-| ------ | --------------------- | ------------------------------------------------------------ |
-| **+1** | Je gère               | Eliminer un adversaire durant le tour d'un autre adversaire  |
-| **+2** | Nope                  | Empecher ou retarer un combo qui met fin ou lock le match    |
-| **+2** | Cruel mais efficace   | Tuer un joueur autrement qu’en reduisant sa vie à 0          |
-| **+1** | Tiens bon!            | Empecher un joueur de mourir                                 |
-| **+1** | Generalissimo         | Tuer un joueur aux dégats commandeurs                        |
-| **+1** | Sang frais            | Eliminer un adversaire avec une carte éditée pour la première fois à partir de strixhaven. |
-| **+1** | Caffard               | Survivre à un tour ou plusieurs joueurs sont mort, sans être responsible de leur mort. |
-| **+1** | Chevalier Arc-en-ciel | Gagner avec un commandant 5C                                 |
-| **+1** | Touché                | Etre le premier de la partie a faire un degat a un joueur    |
-| **+2** | Diversifié            | Controler une creature, une créature légendaire, un artefact, un enchantement, un basic land, un land non basique, un planeswalker, avoir un sorcery et un instant sur la stack. |
+|        | **Nom**             | **Description**                                              |
+| ------ | ------------------- | ------------------------------------------------------------ |
+| **+1** | Je gère             | Eliminer un adversaire durant le tour d'un autre adversaire  |
+| **+2** | Nope                | Empêcher ou retarder un combo qui met fin ou lock le match   |
+| **+2** | Cruel mais efficace | Tuer un joueur autrement qu’en réduisant sa vie à 0          |
+| **+1** | Tiens bon!          | Empêcher un joueur de mourir                                 |
+| **+1** | Généralissime       | Tuer un joueur aux dégâts commandeurs                        |
+| **+1** | Sang frais          | Eliminer un adversaire avec une carte éditée pour la première fois à partir de strixhaven. |
+| **+1** | Cafard              | Survivre à un tour ou plusieurs joueurs sont mort, sans être responsable de leur mort. |
+| **+1** | Touché              | Etre le premier de la partie a faire un dégât a un joueur    |
+| **+2** | Diversifié          | Contrôler une créature, une créature légendaire, un artefact, un enchantement, un basic land, un land non basique, un planeswalker, avoir un sorcery et un instant sur la stack. |
 
 ###  Bonus de fin de match(casual) 
 
@@ -217,13 +218,13 @@ Peuvent être vérifié à la fin de la partie.
 
 |        | **Nom**                  | **Description**                                              |
 | ------ | ------------------------ | ------------------------------------------------------------ |
-| **+1** | Belle magie!             | A la fin de la game, les joueurs peuvent nomer un play, les joueurs peuvent ensuite voter pour un play nomé et celui avec le plus de vote accorde un point à son auteur. |
-| **+1** | Tu es mon hero!          | A la fin de la game, les joueurs votent chacuns, secrètement, pour un autre joueur. Le joueur avec le plus de vote remporte un point. |
+| **+1** | Belle magie!             | A la fin de la game, les joueurs peuvent nommer un play, les joueurs peuvent ensuite voter pour un play nome et celui avec le plus de vote accorde un point à son auteur. |
+| **+1** | Tu es mon Héro!          | A la fin de la game, les joueurs votent chacun, secrètement, pour un autre joueur. Le joueur avec le plus de vote remporte un point. |
 | **+2** | Autophobie               | Invoquer votre commandant 5 fois depuis la zone de commandement. |
 | **+1** | Les pv c’est la vie      | Gagner la game avec 80 points de vie ou plus.                |
-| **+1** | Juste une égratignure    | Gagner la game avec moins de 5 points de vie                 |
+| **+1** | Même pas mal             | Gagner la game avec moins de 5 points de vie                 |
 | **+1** | Guerrier Koh-Lanta       | Survivre 3 tours avec un seul point de vie restant           |
-| **+1** | Elder Dragon Social Club | Jouer avec un deck preconstruit non modifié                  |
+| **+1** | Elder Dragon Social Club | Jouer avec un deck préconstruit non modifié                  |
 | **+1** | Futé                     | Jouer avec un deck ne contenant aucunes rares hors commandant. (rareté la plus haute si plusieurs prints, soyez fair) |
 | **+1** | Argh, mes yeux !!!       | Jouer avec un deck entièrement foil                          |
 
@@ -246,12 +247,12 @@ Cfr règlement règles du jours, +1 points chacun (sauf jour de colère et jour 
 | **9**   | Pile-poil            | Tuer un joueur en le descendant exactement à 0 points de vie |
 | **10**  | Hyper-actif          | Controller 3 instants sur la stack en même temps.            |
 | **11**  | Arroseur-arrosé      | Résoudre un effet (sort ou capacité) qui a été ciblé par un contre controllé par un adversaire. |
-| **12**  | Talon d’achile       | Forcer un joueur à sacrifier une créature indéstructible     |
-| **13**  | Necronomicon         | Jouer un sort depuis le cimetierre d’un adversaire           |
-| **14**  | La famille           | Infliger des degats avec un commandant autre que le sien     |
+| **12**  | Talon d’achile       | Forcer un joueur à sacrifier une créature indestructible     |
+| **13**  | Necronomicon         | Jouer un sort depuis le cimetière d’un adversaire            |
+| **14**  | La famille           | Infliger des dégâts avec un commandant autre que le sien     |
 | **15**  | Confession de foi    | Terminer la partie en n’ayant tutor/fetch que pour des basic lands |
 | **16**  | Belle bête           | Controller une créature avec une force et endurance de 30 ou plus |
-| **17**  | Mazo’                | Recevoir 10 degats provenant de sources controlé par soit    |
+| **17**  | Mazo’                | Recevoir 10 dégâts provenant de sources contrôlé par soit    |
 | **18**  | Drogono              | Terminer la partie en ayant joué moins de 5 sorts passé le tour 6 |
-| **19**  | Indiana Jones        | Controler plus de 5 artefacts                                |
+| **19**  | Indiana Jones        | Contrôler plus de 5 artefacts                                |
 | **20**  | Jour de chance       | A la fin de la partie, chaque joueur, par ordre de priorité, a le choix de faire gagner un point a un autre joueur. |
