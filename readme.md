@@ -1,6 +1,6 @@
 # Ligue été 2021
 
-![](babioles/l21Logo.png)
+![](resources/l21Logo.png)
 
 [TOC]
 
