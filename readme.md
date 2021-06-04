@@ -146,17 +146,18 @@ Des objets, appelé babioles, sont disponibles à l’achat auprès d’un TO et
 
 Les babioles sont représentées par des emblèmes et peuvent être mise en jeu, dans la zone de commandement, avant d’avoir pioché sa première main. Chaque joueur doit annoncer qu'il a mis une babiole en jeu. Elles ne peuvent pas être mise en jeu en CEDH. Quand la babiole est utilisée, elle cesse d'exister, elle n’est ni détruite, ni exilée (ne trigger rien et ne va nulle par). Utiliser une babiole est une action spéciale et ne passe donc pas par la stack. Son usage doit être reporté sur la feuille de score. 
 
-| **Cout** | **Effet**                                            | **Nom de l’objet** | **Cible**     |
-| -------- | ---------------------------------------------------- | ------------------ | ------------- |
-| **3**    | Gagnez 5 pv                                          | Fiole de vie       | You           |
-| **4**    | Exilez la créature ciblée                            | Bâton du vide      | Target crea.  |
-| **2**    | Mulligan gratuit, avec remise (si 6 cartes ou moins) | Fleurs sechés      | You           |
-| **5**    | Mulligan à 7, avec remise 1                          | Racine étrange     | You           |
-| **2**    | Scry 1                                               | Monocle des pensés | You           |
-| **5**    | Draw 1                                               | Tome de préscience | You           |
-| **3**    | Fog                                                  | Potion d’oubli     | Target player |
-| **7**    | Teferi’s Protection jusqu’a la prochaine upkeep      | Faveur des dieux   | Target player |
-| **10**   | ???                                                  | ???                | ???           |
+| **Cout** | **Effet**                                            | **Nom de l’objet** | **Cible**     | Spoiler order |
+| -------- | ---------------------------------------------------- | ------------------ | ------------- | ------------- |
+| **2**    | Gagnez 5 pv                                          | Fiole de vie       | You           | 0             |
+| **4**    | Exilez la créature ciblée                            | Bâton du vide      | Target crea.  | 2             |
+| **3**    | Mulligan gratuit, avec remise (si 6 cartes ou moins) | Fleurs séchés      | You           | 1             |
+| **4**    | Mulligan à 7, avec remise 1                          | Racine étrange     | You           | 7             |
+| **2**    | Scry 1                                               | Monocle des pensés | You           | 0             |
+| **4**    | Draw 1                                               | Tome de préscience | You           | 4             |
+| **3**    | Fog                                                  | Potion d’oubli     | Target player | 3             |
+| **7**    | Teferi’s Protection jusqu’à la prochaine upkeep      | Faveur des dieux   | Target player | 8             |
+| **5**    | Disallow                                             | TBD                | Target spell  | 5             |
+| **10**   | ???                                                  | ???                | ???           | 6             |
 
 ### Feuille de score 
 
