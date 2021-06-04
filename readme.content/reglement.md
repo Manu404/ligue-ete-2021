@@ -16,15 +16,15 @@ Le mode casual récompense le jeu plus que la victoire et comporte donc toutes l
 
 Le mode de jeu influe sur les règles de points active ou non, rien n’empêche d’utiliser des decks CEDH en partie casual si la table le souhaite ou d’utiliser des decks “casual” en mode CEDH. Mais les joueurs CEDH souhaiteront certainement pouvoir jouer plus “librement”. 
 
-|                            | **CASUAL** | **CEDH** |
-| -------------------------- | ---------- | -------- |
-| *Points Traditionnel*      | X          | X        |
-| *Pénalités*                | X          | -        |
-| *Bonus & ROTD*             | X          | -        |
-| *Achat de temps & actions* | X          | -        |
-| *Don de points*            | X          | X        |
-| *Mulligan*                 | London     | London   |
-| *Mulligan gratuit*         | 2          | 1        |
+|                             | **CASUAL** | **CEDH** |
+| --------------------------- | ---------- | -------- |
+| *Points classiques*         | X          | X        |
+| *Pénalités*                 | X          | -        |
+| *Points bonus & ROTD*       | X          | -        |
+| *Achat de temps & babioles* | X          | -        |
+| *Don de points*             | X          | -        |
+| *Mulligan*                  | London     | London   |
+| *Mulligan gratuit*          | 2          | 1        |
 
 ### Points 
 

@@ -2,7 +2,7 @@
 
 ## **Points** 
 
-### Traditionnel (casual & CEDH) 
+### Classiques (casual & CEDH) 
 
 |        | **Nom**               | **Description**                                              |
 | ------ | --------------------- | ------------------------------------------------------------ |
@@ -61,8 +61,6 @@ Peuvent être vérifié à la fin de la partie.
 | **+1** | Futé                     | Jouer avec un deck ne contenant aucunes rares hors commandant. (rareté la plus basse si plusieurs prints) |
 | **+1** | Argh, mes yeux !!!       | Jouer avec un deck entièrement foil                          |
 
- 
-
 ### Règles du jour – Rule of the day - ROTD (casual) 
 
 Cfr règlement règles du jours, +1 points chacun (sauf jour de colère et jour de chance), 3 actifs/jour 
@@ -71,19 +69,19 @@ Cfr règlement règles du jours, +1 points chacun (sauf jour de colère et jour 
 | ------- | -------------------- | ------------------------------------------------------------ |
 | **1**   | Jour de colère       | À la fin de la partie, chaque joueur, par ordre de priorité, a le choix de faire perdre un point a un autre joueur |
 | **2**   | Nomade               | Finir la partie ou être éliminé avec le moins de land        |
-| **3**   | Coulé                | Etre le premier joueur à infliger plus de 5 degats en une phase de combat |
+| **3**   | Coulé                | Etre le premier joueur à tuer une créature.                  |
 | **4**   | La force de l’esprit | Exiler une créature avec une force supérieur a 11            |
 | **5**   | Loup solitaire       | Finir la partie ou être éliminé en ayant invoqué que son commandant comme créature. |
 | **6**   | Kamikaze             | Eliminer tous les joueurs en un tour, soit y compris.        |
 | **7**   | Enchanté             | Controller 5 enchantements avec des noms différents          |
 | **8**   | Dernière faveur      | Retirer le dernier marqueur loyauté d’un PW en utilisant une de ses capacités |
-| **9**   | Pile-poil            | Tuer un joueur en le descendant exactement à 0 points de vie |
+| **9**   | Econome              | Tuer un joueur en le descendant exactement à 0 points de vie |
 | **10**  | Hyper-actif          | Controller 3 instants sur la stack en même temps.            |
-| **11**  | Arroseur-arrosé      | Résoudre un effet (sort ou capacité) qui a été ciblé par un contre controllé par un adversaire. |
+| **11**  | Arroseur-arrosé      | Résoudre un sort ou capacité qui a été ciblé par un contresort contrôlé par un adversaire. |
 | **12**  | Manipulateur         | Forcer un joueur à sacrifier une créature indestructible     |
 | **13**  | Necronomicon         | Jouer un sort depuis le cimetière d’un adversaire            |
-| **14**  | La famille           | Infliger des dégâts avec un commandant autre que le sien     |
-| **15**  | Confession de foi    | Terminer la partie en n’ayant tutor/fetch que pour des basic lands |
+| **14**  | La famille           | Infliger des dégâts avec un commandant appartenant a un adversaire |
+| **15**  | Confession de foi    | Terminer la partie en n’ayant cherché sa bibliothèque que pour des basic lands |
 | **16**  | Belle bête           | Controller une créature avec une force et endurance de 30 ou plus |
 | **17**  | Dolorisme            | Recevoir 10 dégâts provenant de sources contrôlé par soit    |
 | **18**  | Drogono              | Terminer la partie en ayant joué moins de 5 sorts passé le tour 6 |
