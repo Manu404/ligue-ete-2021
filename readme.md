@@ -17,7 +17,9 @@ L'esprit de cette ligue est similaire à la première : permettre aux gens de  j
 | Manu    | Manu404#6726  | 0498236279 | contact@emmanuelistace.be |
 | Greg    | Yberamos#2213 | 0471292851 | gregoiredemoulin2@gmail.com |
 
-## Reservation
+## Reservations & inscriptions
+
+**Inscriptions (Du 07 au 25 juin): https://forms.gle/UnWomAb4zPNAx5Vu6**
 
 |           | doodle |
 | --------- | ---------------------------------------------- |
@@ -25,11 +27,12 @@ L'esprit de cette ligue est similaire à la première : permettre aux gens de  j
 | Semaine 2 | TBD |
 | Semaine 3 | TBD |
 | Semaine 4 | TBD |
+
 ## Organisation 
 
 ### Inscription 
 
-Inscriptions du lundi 07 juin au vendredi 25 juin via formulaire google form.  
+Inscriptions du lundi 07 juin au vendredi 25 juin via: https://forms.gle/UnWomAb4zPNAx5Vu6  
 
 Les frais d’inscriptions sont de 5€ et sont à verser sur le compte <compte> ou à remettre en main propre au TO (greg ou manu).   
 

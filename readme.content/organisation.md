@@ -2,7 +2,7 @@
 
 ### Inscription 
 
-Inscriptions du lundi 07 juin au vendredi 25 juin via formulaire google form.  
+Inscriptions du lundi 07 juin au vendredi 25 juin via: https://forms.gle/UnWomAb4zPNAx5Vu6  
 
 Les frais d’inscriptions sont de 5€ et sont à verser sur le compte <compte> ou à remettre en main propre au TO (greg ou manu).   
 
