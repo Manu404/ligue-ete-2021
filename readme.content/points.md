@@ -52,8 +52,8 @@ Peuvent être vérifié à la fin de la partie.
 
 |        | **Nom**                  | **Description**                                              |
 | ------ | ------------------------ | ------------------------------------------------------------ |
-| **+1** | Belle magie!             | A la fin de la game, les joueurs peuvent nommer un play, les joueurs peuvent ensuite voter pour un play nome et celui avec le plus de vote accorde un point à son auteur. |
-| **+1** | Tu es mon Héro!          | A la fin de la game, les joueurs votent chacun, secrètement, pour un autre joueur. Le joueur avec le plus de vote remporte un point. |
+| **+1** | Belle magie!             | À la fin de la game, les joueurs peuvent nommer un play, les joueurs peuvent ensuite voter pour un play nome et celui avec le plus de vote accorde un point à son auteur. |
+| **+1** | Tu es mon Héro!          | À la fin de la game, les joueurs votent chacun, secrètement, pour un autre joueur. Le joueur avec le plus de vote remporte un point. |
 | **+1** | Les pv c’est la vie      | Gagner la game avec 80 points de vie ou plus.                |
 | **+1** | Même pas mal             | Gagner la game avec moins de 5 points de vie                 |
 | **+1** | Préfabriqué              | Jouer avec un deck préconstruit non modifié                  |
@@ -69,7 +69,7 @@ Cfr règlement règles du jours, +1 points chacun (sauf jour de colère et jour 
 
 | **D20** | **Nom**              | **Description**                                              |
 | ------- | -------------------- | ------------------------------------------------------------ |
-| **1**   | Jour de colère       | A la fin de la partie, chaque joueur, par ordre de priorité, a le choix de faire perdre un point a un autre joueur |
+| **1**   | Jour de colère       | À la fin de la partie, chaque joueur, par ordre de priorité, a le choix de faire perdre un point a un autre joueur |
 | **2**   | Nomade               | Finir la partie ou être éliminé avec le moins de land        |
 | **3**   | Coulé                | Etre le premier joueur à infliger plus de 5 degats en une phase de combat |
 | **4**   | La force de l’esprit | Exiler une créature avec une force supérieur a 11            |
@@ -88,4 +88,4 @@ Cfr règlement règles du jours, +1 points chacun (sauf jour de colère et jour 
 | **17**  | Dolorisme            | Recevoir 10 dégâts provenant de sources contrôlé par soit    |
 | **18**  | Drogono              | Terminer la partie en ayant joué moins de 5 sorts passé le tour 6 |
 | **19**  | Indiana Jones        | Contrôler plus de 8 artefacts                                |
-| **20**  | Jour de chance       | A la fin de la partie, chaque joueur, par ordre de priorité, a le choix de faire gagner un point a un autre joueur. |
+| **20**  | Jour de chance       | À la fin de la partie, chaque joueur, par ordre de priorité, a le choix de faire gagner un point a un autre joueur. |

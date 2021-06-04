@@ -11,5 +11,5 @@ L'esprit de cette ligue est similaire à la première : permettre aux gens de  j
 | Contact | Discord       |            |                           |
 | ------- | ------------- | ---------- | ------------------------- |
 | Manu    | Manu404#6726  | 0498236279 | contact@emmanuelistace.be |
-| Greg    | Yberamos#2213 |            |                           |
+| Greg    | Yberamos#2213 | 0471292851 | gregoiredemoulin2@gmail.com |
 

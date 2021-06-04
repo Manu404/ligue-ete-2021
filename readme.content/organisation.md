@@ -18,7 +18,7 @@ Les rencontres ont lieu chez Greg les <jour 1> et <jour 2> de chaque semaine sur
 
 ### Invités 
 
-Il est possible pour un joueur non inscrit a la ligue de participer, sur acceptation préalable d’un TO. Dans ce cas, 2€ seront demandé au participant en échange de la possibilité de jouer, il pourra aussi choisir une boisson et un snack (cfr “Organisation - L’échoppe de Karadoc”). Cf. “Règlement - Points”. 
+Il est possible pour un joueur non inscrit à la ligue de participer, sur acceptation préalable d’un TO. Dans ce cas, 2€ seront demandé au participant en échange de la possibilité de jouer, il pourra aussi choisir une boisson et un snack (cfr “Organisation - L’échoppe de Karadoc”). Cfr. “Règlement - Points”. 
 
 ### Accès aux résultats 
 
@@ -28,11 +28,11 @@ Les résultats seront mis en ligne au fur et à mesure le plus rapidement possib
 
 ### Prizing 
 
-Chaque joueur pourra, par ordre de classement, prendre une carte dans le prizing disponible. Le prizing présenté plus loin est trié par ordre de prix à titre indicatif. Aussi, des tokens, liés au classement, seront remis au top3. Le vainqueur se verra également remettre un trophée porte carte (identique a celui remis lors de la précédente ligue). Le prizing sera remis début aout aux joueurs par ordre de classement. 
+Chaque joueur pourra, par ordre de classement, prendre une carte dans le prizing disponible. Le prizing présenté plus loin est trié par ordre de prix à titre indicatif. Aussi, des tokens, liés au classement, seront remis au top3. Le vainqueur se verra également remettre un trophée porte-carte (identique à celui remis lors de la précédente ligue). Le prizing sera remis début aout aux joueurs par ordre de classement. 
 
 ### Materiel 
 
-Une boite, contenant des portes mines/crayons/gommes pour remplir les feuilles de score et des rappels imprimé et plastifié des règles et points, est mise à disposition. Prenez soin du matériel et veillez à le laisser dans la salle de jeu. A la fin de la journée, n’hésitez pas à rapporter le matériel à porté dans la boite. 
+Une boite, contenant des portes-mines/crayons/gommes pour remplir les feuilles de score et des rappels imprimé et plastifié des règles ainsi que des points, seront mit à disposition. Prenez soin du matériel et veillez à le laisser dans la salle de jeu. À la fin de la journée, n’hésitez pas à ramener le matériel dans la boite prevue a cet effet. 
 
 ### Pot commun 
 
@@ -48,7 +48,7 @@ Par exemple si chaque joueur met 2€ quand il vient, en plus de son snack et bo
 
 ### L'échoppe de Karadoc 
 
-Des boissons et à grignoter sont proposé à prix libre en teste, les prix d’achats et un prix conseillé sont indiqué. Les bénéfices vont intégralement dans le pot commun. Le paiement peut se faire auprès d’un TO en liquide, via le compte qui a servi à l’inscription ou via application mobile. Les ardoises sont autorisées, en évitant les abus, et devront être soldé pour la fin de la ligue.  Les “stocks” seront assuré et mis à jours selon la consommation et envies des participants. Les joueurs restent libre de prendre leurs boissons et snacks.  
+Des boissons et à grignoter sont proposé à prix libre en test, les prix d’achats et un prix conseillé sont indiqué. Les bénéfices vont intégralement dans le pot commun. Le paiement peut se faire auprès d’un TO en liquide, via le compte qui a servi à l’inscription ou via application mobile. Les ardoises sont autorisées, en évitant les abus, et devront être soldé pour la fin de la ligue.  Les “stocks” seront assuré et mis à jours selon la consommation et envies des participants. Les joueurs restent libre de prendre leurs boissons et snacks.  
 
 Par exemple, si chaque joueur prend un soft et un snack/présence (1.5€, 0.5€ vont dans le pot commun) et qu’il n’y a chaque fois que 4 joueur de présents, 4 semaines * 2 jours * 4 joueurs = 16€ reporté sur la ligue suivante et des joueurs rafraichi et temporairement repu.  
 
@@ -59,11 +59,11 @@ Par exemple, si chaque joueur prend un soft et un snack/présence (1.5€, 0.5�
 | Ice TEA 33CL                                                 | 0.76 / 0.65                                    | 1                  |
 | Jupiler 25cl                                                 | 0.53 / 0.43                                    | 1                  |
 | Red bull 25CL                                                | 1.14 / 1                                       | 2                  |
-| MoNSTER 50CL                                                 | 1.39 / 1.30                                    | 2                  |
+| Monster 50CL                                                 | 1.39 / 1.30                                    | 2                  |
 | Bouteille d’eau 50cl                                         | 0.13 / 0.13                                    | 0.5                |
 |                                                              |                                                |                    |
 | Pomme                                                        | 0.36                                           | 0.5                |
-| RaisINs BLANC (250gr, demi ravier)                           | 0.85                                           | 1                  |
+| Raisins blanc (250gr, demi ravier)                           | 0.85                                           | 1                  |
 | Banane                                                       | 0.16                                           | 0.5                |
 |                                                              |                                                |                    |
 | Petit Chips (Sel, paprika, ketchup, grills, buggles, cheetos) | 0.23 / 0.23                                    | 0.5                |

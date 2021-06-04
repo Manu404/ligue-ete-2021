@@ -1,4 +1,7 @@
 
+[comment]: # (This file is generated, don't modify it, check content subfolder)
+
+[comment]: # (Ce fichier est généré, ne le modifiez pas, regarder le sous dossier content)
 # Ligue été 2021
 
 ![](resources/l21Logo.png)
@@ -12,7 +15,7 @@ L'esprit de cette ligue est similaire à la première : permettre aux gens de  j
 | Contact | Discord       |            |                           |
 | ------- | ------------- | ---------- | ------------------------- |
 | Manu    | Manu404#6726  | 0498236279 | contact@emmanuelistace.be |
-| Greg    | Yberamos#2213 | 0471292851 |gregoiredemoulin2@gmail.com|
+| Greg    | Yberamos#2213 | 0471292851 | gregoiredemoulin2@gmail.com |
 
 ## Organisation 
 
@@ -79,7 +82,7 @@ Par exemple, si chaque joueur prend un soft et un snack/présence (1.5€, 0.5�
 | Bouteille d’eau 50cl                                         | 0.13 / 0.13                                    | 0.5                |
 |                                                              |                                                |                    |
 | Pomme                                                        | 0.36                                           | 0.5                |
-| Raisins BLANC (250gr, demi ravier)                           | 0.85                                           | 1                  |
+| Raisins blanc (250gr, demi ravier)                           | 0.85                                           | 1                  |
 | Banane                                                       | 0.16                                           | 0.5                |
 |                                                              |                                                |                    |
 | Petit Chips (Sel, paprika, ketchup, grills, buggles, cheetos) | 0.23 / 0.23                                    | 0.5                |
@@ -95,19 +98,19 @@ Par exemple, si chaque joueur prend un soft et un snack/présence (1.5€, 0.5�
 | Offre généreuse  20 mini snickers, twix, bounty, mars, mily way, uniquement durant une partie | / 2.89                                         | 4                  |
 | Tournée de la victoire   4 soft ou bières et 4 snacks ou fruits, ne peut s’acheter qu'a la fin d’une partie | +/- 3.5                                        | 5                  |
 
-## Reglement 
+## Règlement 
 
 ### Déroulement d’un match. 
 
 Pour lancer un match, les joueurs doivent s’être mis d’accord sur le mode de jeu, ensuite une feuille de score pourra être demandé au TO et remplie par les joueurs. Quand les joueurs sont prêts, le TO lance le match en même temps que le timer, le temps est surveillé par le TO. Quand le match est fini, la feuille devra être vérifié et signée par tous les joueurs de la table et rendue au TO. 
 
-### Modes de jeu : Casual et cEDH 
+### Modes de jeu : Casual et CEDH 
 
-Il est possible de jouer en mode casual ou mode cEDH. L’ensemble des joueurs de la table doit se mettre d’accord sur le mode de jeu avant de débuter la partie. Le mode de jeu devra être indiqué sur la feuille de score. 
+Il est possible de jouer en mode casual ou CEDH. L’ensemble des joueurs de la table doit se mettre d’accord sur le mode de jeu avant de débuter la partie. Le mode de jeu devra être indiqué sur la feuille de score. 
 
-En mode cEDH, uniquement les points « Traditionnel » sont actifs, il n’y a pas de pénalités et il n’est pas possible d’acheter ni du temps, ni des actions, les régles du jour (ROTD) ne sont pas active. London mulligan avec un mulli gratuit, draw au premier tour. 
+En mode CEDH, uniquement les points « Traditionnel » sont actifs, il n’y a pas de pénalités et il n’est pas possible d’acheter ni du temps, ni des actions, les régles du jour (ROTD) ne sont pas active. London mulligan avec un mulli gratuit, draw au premier tour. 
 
-Le mode casual récompense le jeu plus que la victoire et comporte donc toutes les règles de points. Les parties peuvent durer plus de 2h (cf. Temps). Dans ce mode, il peut être intéressant de s’accorder sur un powerlevel “équilibré” entre les joueurs. Le London mulligan est d'application, toutefois avec deux mulligan gratuit au lieu d'un seul, draw au premier tour.  
+Le mode casual récompense le jeu plus que la victoire et comporte donc toutes les règles de points. Les parties peuvent durer plus de 2h (cf. Temps). Dans ce mode, il peut être intéressant de s’accorder sur un powerlevel “équilibré” entre les joueurs. Le London mulligan est d'application, toutefois avec deux mulligan gratuit au lieu d'un seul, draw au premier tour. 
 
 Le mode de jeu influe sur les règles de points active ou non, rien n’empêche d’utiliser des decks CEDH en partie casual si la table le souhaite ou d’utiliser des decks “casual” en mode CEDH. Mais les joueurs CEDH souhaiteront certainement pouvoir jouer plus “librement”. 
 
@@ -143,17 +146,17 @@ Des objets, appelé babioles, sont disponibles à l’achat auprès d’un TO et
 
 Les babioles sont représentées par des emblèmes et peuvent être mise en jeu, dans la zone de commandement, avant d’avoir pioché sa première main. Chaque joueur doit annoncer qu'il a mis une babiole en jeu. Elles ne peuvent pas être mise en jeu en CEDH. Quand la babiole est utilisée, elle cesse d'exister, elle n’est ni détruite, ni exilée (ne trigger rien et ne va nulle par). Utiliser une babiole est une action spéciale et ne passe donc pas par la stack. Son usage doit être reporté sur la feuille de score. 
 
-| **Cout** | **Effet**                                         | **Nom de l’objet** | **Cible**     |
-| -------- | ------------------------------------------------- | ------------------ | ------------- |
-| **2**    | Gagner 5 pv                                       | Flasque de vie     | You           |
-| **4**    | Exile la créature ciblée                          | Bâton du vide      | Target crea.  |
-| **2**    | Mulli gratuit, avec remise (si 6 cartes ou moins) | Fleurs sechés      | You           |
-| **4**    | Mulli à 7, avec remise 1                          | Racine étranges    | You           |
-| **2**    | Scry 1                                            | Monocle du savoir  | You           |
-| **4**    | Draw 1                                            | Tome du savoir     | You           |
-| **3**    | Fog                                               | Potion d’oubli     | Target player |
-| **5**    | Teferi’s Protection jusqu’a la prochaine upkeep   | Anneau sacré       | Target player |
-| **10**   | ???                                               | ???                | ???           |
+| **Cout** | **Effet**                                            | **Nom de l’objet** | **Cible**     |
+| -------- | ---------------------------------------------------- | ------------------ | ------------- |
+| **3**    | Gagnez 5 pv                                          | Fiole de vie       | You           |
+| **4**    | Exilez la créature ciblée                            | Bâton du vide      | Target crea.  |
+| **2**    | Mulligan gratuit, avec remise (si 6 cartes ou moins) | Fleurs sechés      | You           |
+| **5**    | Mulligan à 7, avec remise 1                          | Racine étrange     | You           |
+| **2**    | Scry 1                                               | Monocle des pensés | You           |
+| **5**    | Draw 1                                               | Tome de préscience | You           |
+| **3**    | Fog                                                  | Potion d’oubli     | Target player |
+| **7**    | Teferi’s Protection jusqu’a la prochaine upkeep      | Faveur des dieux   | Target player |
+| **10**   | ???                                                  | ???                | ???           |
 
 ### Feuille de score 
 
@@ -221,8 +224,8 @@ Peuvent être vérifié à la fin de la partie.
 
 |        | **Nom**                  | **Description**                                              |
 | ------ | ------------------------ | ------------------------------------------------------------ |
-| **+1** | Belle magie!             | A la fin de la game, les joueurs peuvent nommer un play, les joueurs peuvent ensuite voter pour un play nome et celui avec le plus de vote accorde un point à son auteur. |
-| **+1** | Tu es mon Héro!          | A la fin de la game, les joueurs votent chacun, secrètement, pour un autre joueur. Le joueur avec le plus de vote remporte un point. |
+| **+1** | Belle magie!             | À la fin de la game, les joueurs peuvent nommer un play, les joueurs peuvent ensuite voter pour un play nome et celui avec le plus de vote accorde un point à son auteur. |
+| **+1** | Tu es mon Héro!          | À la fin de la game, les joueurs votent chacun, secrètement, pour un autre joueur. Le joueur avec le plus de vote remporte un point. |
 | **+1** | Les pv c’est la vie      | Gagner la game avec 80 points de vie ou plus.                |
 | **+1** | Même pas mal             | Gagner la game avec moins de 5 points de vie                 |
 | **+1** | Préfabriqué              | Jouer avec un deck préconstruit non modifié                  |
@@ -238,7 +241,7 @@ Cfr règlement règles du jours, +1 points chacun (sauf jour de colère et jour 
 
 | **D20** | **Nom**              | **Description**                                              |
 | ------- | -------------------- | ------------------------------------------------------------ |
-| **1**   | Jour de colère       | A la fin de la partie, chaque joueur, par ordre de priorité, a le choix de faire perdre un point a un autre joueur |
+| **1**   | Jour de colère       | À la fin de la partie, chaque joueur, par ordre de priorité, a le choix de faire perdre un point a un autre joueur |
 | **2**   | Nomade               | Finir la partie ou être éliminé avec le moins de land        |
 | **3**   | Coulé                | Etre le premier joueur à infliger plus de 5 degats en une phase de combat |
 | **4**   | La force de l’esprit | Exiler une créature avec une force supérieur a 11            |
