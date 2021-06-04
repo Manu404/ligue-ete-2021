@@ -1,5 +1,3 @@
-
-
 ## **Points** 
 
 ### Classiques (casual & CEDH) 

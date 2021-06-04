@@ -12,4 +12,3 @@ L'esprit de cette ligue est similaire à la première : permettre aux gens de  j
 | ------- | ------------- | ------------------------- |
 | Manu    | Manu404#6726  | contact@emmanuelistace.be |
 | Greg    | Yberamos#2213 | gregoiredemoulin2@gmail.com |
-

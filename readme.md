@@ -1,4 +1,5 @@
 
+
 [comment]: # (This file is generated, don't modify it, check content subfolder)
 
 [comment]: # (Ce fichier est généré, ne le modifiez pas, regarder le sous dossier content)
@@ -16,7 +17,6 @@ L'esprit de cette ligue est similaire à la première : permettre aux gens de  j
 | ------- | ------------- | ------------------------- |
 | Manu    | Manu404#6726  | contact@emmanuelistace.be |
 | Greg    | Yberamos#2213 | gregoiredemoulin2@gmail.com |
-
 ## Reservations & inscriptions
 
 **Inscriptions (Du 07 au 25 juin): https://forms.gle/UnWomAb4zPNAx5Vu6**
@@ -27,7 +27,6 @@ L'esprit de cette ligue est similaire à la première : permettre aux gens de  j
 | Semaine 2 | TBD |
 | Semaine 3 | TBD |
 | Semaine 4 | TBD |
-
 ## Organisation 
 
 ### Inscription 
@@ -114,6 +113,7 @@ Par exemple, si chaque joueur prend un soft et un snack/présence (1.5€, 0.5�
 | Offre généreuse  20 mini snickers, twix, bounty, mars, mily way, uniquement durant une partie | / 2.89                                         | 4                  |
 | Tournée de la victoire   4 soft ou bières et 4 snacks ou fruits, ne peut s’acheter qu'a la fin d’une partie | +/- 3.5                                        | 5                  |
 
+
 ## Règlement 
 
 ### Déroulement d’un match. 
@@ -188,7 +188,6 @@ Dans le cas d’une partie casual, si la limite de temps est atteinte, il est po
 Par exemple, il reste 3 joueurs a table et ils veulent acheter une troisième extension de 30 minutes, le cout en points est égal à 3 * (1 + 2) = 9
 
 Dans le cas d’une partie CEDH, aucune extension de temps ne peut être achetée et les joueurs ne reçoivent pas de points supplémentaires en cas de draw.
-
 ## **Points** 
 
 ### Classiques (casual & CEDH) 
