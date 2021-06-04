@@ -17,6 +17,14 @@ L'esprit de cette ligue est similaire à la première : permettre aux gens de  j
 | Manu    | Manu404#6726  | 0498236279 | contact@emmanuelistace.be |
 | Greg    | Yberamos#2213 | 0471292851 | gregoiredemoulin2@gmail.com |
 
+## Reservation
+
+|           | doodle |
+| --------- | ---------------------------------------------- |
+| Semaine 1 | TBD |
+| Semaine 2 | TBD |
+| Semaine 3 | TBD |
+| Semaine 4 | TBD |
 ## Organisation 
 
 ### Inscription 
@@ -33,7 +41,12 @@ La ligue débute le vendredi 02 juillet et se termine le vendredi 30 juillet.
 
 ### Jours de rencontre et réservation 
 
-Les rencontres ont lieu chez Greg les <jour 1> et <jour 2> de chaque semaine sur réservation. Les réservations se font jusqu’au jour précédent à 20:00 afin d’éviter d’avoir trop ou trop peu de monde et permettre de s’organiser. La limite est fixée à 8 joueurs par jours de rencontre.  
+Les rencontres ont lieu chez Greg deux fois semaines:
+
+- mercredi, de 18:00 à 22:00
+- jeudi, de 13:00 à 18:00 
+
+Les joueurs doivent reserver leur place a l'avance via un formulaire doodle. Les réservations se font jusqu’au jour précédent à 20:00. Le but est d’éviter d’avoir trop ou trop peu de monde et permettre de s’organiser. La limite est fixée à 8 joueurs par jours de rencontre. En cas de non-inscription, contacter le TO avant pour verifier les disponnibilités. 
 
 ### Invités 
 
@@ -59,9 +72,9 @@ Un pot commun est mis en place et sera utilisé pour le prizing de la ligue suiv
 
 Le solde ainsi que l’historique sont accessible via la page de résultat. 
 
-Les joueurs ont la possibilité de payer 2€ de participation à un TO (liquide, virement ou mobile) ce qui donnera droit à une boisson et un snack. Ce n’est pas imposé, il reste possible de simplement les acheter pour 1.5€, ou ne rien payer/consommer. Les bénéfices vont tous dans le pot commun.  
+Les joueurs ont la possibilité de payer 2€ de participation à un TO (liquide, virement ou mobile) ce qui donnera droit à une boisson et un snack. Ce n’est pas imposé, il reste possible de simplement les acheter pour 1.5€, ou ne rien payer/consommer. C'est un fee similaire a ce qui est pratiqué dans pas mal de lieux de jeu, le but ici est de prendre la température. Les bénéfices vont tous dans le pot commun.  
 
-Selon les retours et le déroulement, ce système sera adapté ou abandonné pour la prochaine ligue.  
+Selon les retours et le déroulement, ce système sera adapté ou abandonné pour les prochaines ligue.  
 
 Par exemple si chaque joueur met 2€ quand il vient, en plus de son snack et boisson, en comptant “que” 4 joueurs présent par jours de rencontre: 4 semaines * 2 jours * 4 joueurs * (2€ - (prix coutant)) = 32€, mis dans le pot commun, soit plus de la moitié des fonds disponible de cette édition. 
 
