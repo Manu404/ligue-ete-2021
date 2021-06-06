@@ -154,7 +154,7 @@ Au début de chaque journée de rencontre, 3 règles de la liste ROTD sont tiré
 
 ### Don de points 
 
-Durant une partie, les joueurs peuvent donner des points à d’autres joueurs, par exemple en échange de certaines actions. Le nombre total de points pouvant être donné durant une partie est limité à 5 et ils doivent être disponibles au début de la journée de rencontre. Un don est point est traité comme une action spéciale. Pour utiliser cette action, vous devez appeler un TO présent. Ces dons sont possible en CEDH et en casual. 
+Durant une partie, les joueurs peuvent donner des points à d’autres joueurs, par exemple en échange de certaines actions. Le nombre total de points pouvant être donné durant une partie est limité à 5 et ils doivent être disponibles au début de la journée de rencontre. Un don est point est traité comme une action spéciale. Pour utiliser cette action, vous devez appeler un TO présent. Ces dons sont possible en casual uniquement. 
 
 ### Babioles 
 
