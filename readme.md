@@ -1,8 +1,8 @@
 
 
-[comment]: # (This file is generated, don't modify it, check content subfolder)
+[comment]: # "This file is generated, don't modify it, check content subfolder"
 
-[comment]: # (Ce fichier est généré, ne le modifiez pas, regarder le sous dossier content)
+[comment]: # "Ce fichier est généré, ne le modifiez pas, regarder le sous dossier content"
 # Ligue été 2021
 
 ![](resources/l21Logo.png)
@@ -163,19 +163,6 @@ Des objets, appelé babioles, sont disponibles à l’achat auprès d’un TO et
 Les babioles sont représentées par des emblèmes et peuvent être mises en jeu, dans la zone de commandement, avant d’avoir pioché sa première main. Chaque joueur doit annoncer qu'il a mis une babiole en jeu. Elles ne peuvent pas être mise en jeu en CEDH. Quand la babiole est utilisée, elle cesse d'exister, elle n’est ni détruite, ni exilée (ne trigger rien et ne va nulle part). Utiliser une babiole est une action spéciale et ne passe donc pas par la stack. Son usage doit être reporté sur la feuille de score. 
 
 Des limites sur le nombre de babioles mise en jeu ou achetées seront mise en place et communiquées rapidement.
-
-| **Cout** | **Effet**                                            | **Nom de l’objet** | **Cible**     | Spoiler order |
-| -------- | ---------------------------------------------------- | ------------------ | ------------- | ------------- |
-| **2**    | Gagnez 5 pv                                          | Fiole de vie       | You           | 0             |
-| **4**    | Exilez la créature ciblée                            | Bâton du vide      | Target crea.  | 2             |
-| **3**    | Mulligan gratuit, avec remise (si 6 cartes ou moins) | Fleurs séchés      | You           | 1             |
-| **4**    | Mulligan à 7, avec remise 1                          | Racine étrange     | You           | 7             |
-| **2**    | Scry 1                                               | Monocle des pensés | You           | 0             |
-| **4**    | Draw 1                                               | Tome de préscience | You           | 4             |
-| **3**    | Fog                                                  | Potion d’oubli     | Target player | 3             |
-| **7**    | Teferi’s Protection jusqu’à la prochaine upkeep      | Faveur des dieux   | Target player | 8             |
-| **5**    | Disallow                                             | TBD                | Target spell  | 5             |
-| **10**   | ???                                                  | ???                | ???           | 6             |
 
 ### Feuille de score 
 
