@@ -4,9 +4,9 @@
 
 Inscriptions du lundi 07 juin au vendredi 25 juin via: https://forms.gle/UnWomAb4zPNAx5Vu6  
 
-Les frais d’inscriptions sont de 5€ et sont à verser sur le compte <compte> ou à remettre en main propre au TO (greg ou manu).   
+Les frais d’inscriptions sont de 5€ et sont à verser sur le compte <compte> ou à remettre en main propre au TO (Greg ou Manu).   
 
-Un participant peut aussi payer son inscription en fournissant des cartes du prizing, a condition que ce soit avant la fin des inscriptions et avant la commande du prizing, ce sera très apprécié et remercié, à voir avec un TO. 
+Un participant peut aussi payer son inscription en fournissant des cartes du prizing, à condition que ce soit avant la fin des inscriptions et avant la commande du prizing, ce sera très apprécié et remercié, à voir avec un TO. 
 
 Le paiement confirme l’inscription. L’inscription permet de payer le prizing. Il y a 12 places disponibles (pour le moment). 
 
@@ -14,12 +14,12 @@ La ligue débute le vendredi 02 juillet et se termine le vendredi 30 juillet.
 
 ### Jours de rencontre et réservation 
 
-Les rencontres ont lieu chez Greg deux fois semaines:
+Les rencontres ont lieu chez Greg deux fois semaine:
 
 - mercredi, de 18:00 à 22:00
 - jeudi, de 13:00 à 18:00 
 
-Les joueurs doivent reserver leur place a l'avance via un formulaire doodle. Les réservations se font jusqu’au jour précédent à 20:00. Le but est d’éviter d’avoir trop ou trop peu de monde et permettre de s’organiser. La limite est fixée à 8 joueurs par jours de rencontre. En cas de non-inscription, contacter le TO avant pour verifier les disponnibilités. 
+Les joueurs doivent reserver leur place à l'avance via un formulaire doodle. Les réservations se font jusqu’au jour précédent à 20:00. Le but est d’éviter d’avoir trop ou trop peu de monde et permettre de s’organiser. La limite est fixée à 8 joueurs par jour de rencontre. En cas de non-inscription, contacter le TO avant pour verifier les disponibilités. 
 
 ### Invités 
 
@@ -33,29 +33,29 @@ Les résultats seront mis en ligne au fur et à mesure le plus rapidement possib
 
 ### Prizing 
 
-Chaque joueur pourra, par ordre de classement, prendre une carte dans le prizing disponible. Le prizing présenté plus loin est trié par ordre de prix à titre indicatif. Aussi, des tokens, liés au classement, seront remis au top3. Le vainqueur se verra également remettre un trophée porte-carte (identique à celui remis lors de la précédente ligue). Le prizing sera remis début aout aux joueurs par ordre de classement. 
+Chaque joueur pourra, par ordre de classement, prendre une carte dans le prizing disponible. Le prizing présenté plus loin est trié par ordre de prix à titre indicatif. Aussi, des tokens, liés au classement, seront remis au top3. Le vainqueur se verra également remettre un trophée porte-carte (identique à celui remis lors de la précédente ligue). Le prizing sera remis début août aux joueurs par ordre de classement. 
 
 ### Materiel 
 
-Une boite, contenant des portes-mines/crayons/gommes pour remplir les feuilles de score et des rappels imprimé et plastifié des règles ainsi que des points, seront mit à disposition. Prenez soin du matériel et veillez à le laisser dans la salle de jeu. À la fin de la journée, n’hésitez pas à ramener le matériel dans la boite prevue a cet effet. 
+Une boite, contenant des portes-mines/crayons/gommes pour remplir les feuilles de score et des rappels imprimés et plastifiés des règles ainsi que des points, seront mis à disposition. Prenez soin du matériel et veillez à le laisser dans la salle de jeu. À la fin de la journée, n’hésitez pas à ramener le matériel dans la boite prevue à cet effet. 
 
 ### Pot commun 
 
 Un pot commun est mis en place et sera utilisé pour le prizing de la ligue suivante OU utilisé à la fin de cette ligue si une majorité des joueurs le souhaitent.  
 
-Le solde ainsi que l’historique sont accessible via la page de résultat. 
+Le solde ainsi que l’historique sont accessibles via la page de résultat. 
 
-Les joueurs ont la possibilité de payer 2€ de participation à un TO (liquide, virement ou mobile) ce qui donnera droit à une boisson et un snack. Ce n’est pas imposé, il reste possible de simplement les acheter pour 1.5€, ou ne rien payer/consommer. C'est un fee similaire a ce qui est pratiqué dans pas mal de lieux de jeu, le but ici est de prendre la température. Les bénéfices vont tous dans le pot commun.  
+Les joueurs ont la possibilité de payer 2€ de participation à un TO (liquide, virement ou mobile) ce qui donnera droit à une boisson et un snack. Ce n’est pas imposé, il reste possible de simplement les acheter pour 1.5€, ou ne rien payer/consommer. C'est un fee similaire à ce qui est pratiqué dans pas mal de lieux de jeu, le but ici est de prendre la température. Les bénéfices vont tous dans le pot commun.  
 
 Selon les retours et le déroulement, ce système sera adapté ou abandonné pour les prochaines ligue.  
 
-Par exemple si chaque joueur met 2€ quand il vient, en plus de son snack et boisson, en comptant “que” 4 joueurs présent par jours de rencontre: 4 semaines * 2 jours * 4 joueurs * (2€ - (prix coutant)) = 32€, mis dans le pot commun, soit plus de la moitié des fonds disponible de cette édition. 
+Par exemple si chaque joueur met 2€ quand il vient, en plus de son snack et boisson, en comptant “que” 4 joueurs présents par jours de rencontre: 4 semaines * 2 jours * 4 joueurs * (2€ - (prix coutant)) = 32€, mis dans le pot commun, soit plus de la moitié des fonds disponible de cette édition. 
 
 ### L'échoppe de Karadoc 
 
-Des boissons et à grignoter sont proposé à prix libre en test, les prix d’achats et un prix conseillé sont indiqué. Les bénéfices vont intégralement dans le pot commun. Le paiement peut se faire auprès d’un TO en liquide, via le compte qui a servi à l’inscription ou via application mobile. Les ardoises sont autorisées, en évitant les abus, et devront être soldé pour la fin de la ligue.  Les “stocks” seront assuré et mis à jours selon la consommation et envies des participants. Les joueurs restent libre de prendre leurs boissons et snacks.  
+Des boissons et des en-cas sont proposés à prix libre en test, les prix d’achat et un prix conseillé sont indiqués. Les bénéfices vont intégralement dans le pot commun. Le paiement peut se faire auprès d’un TO en liquide, via le compte qui a servi à l’inscription ou via application mobile. Les ardoises sont autorisées, en évitant les abus, et devront être soldé pour la fin de la ligue.  Les “stocks” seront assurés et mis à jour selon la consommation et envie des participants. Les joueurs restent libres de prendre leurs boissons et snacks.  
 
-Par exemple, si chaque joueur prend un soft et un snack/présence (1.5€, 0.5€ vont dans le pot commun) et qu’il n’y a chaque fois que 4 joueur de présents, 4 semaines * 2 jours * 4 joueurs = 16€ reporté sur la ligue suivante et des joueurs rafraichi et temporairement repu.  
+Par exemple, si chaque joueur prend un soft et un snack/présence (1.5€, 0.5€ vont dans le pot commun) et qu’il n’y a chaque fois que 4 joueurs de présents, 4 semaines * 2 jours * 4 joueurs = 16€ reporté sur la ligue suivante et des joueurs rafraichis et temporairement repus.  
 
 |                                                              | **Prix d’achat**  <br />**Delhaize / Colruyt** | **Prix conseillé** |
 | ------------------------------------------------------------ | ---------------------------------------------- | ------------------ |

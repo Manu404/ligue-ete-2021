@@ -4,27 +4,27 @@ En gros ce que je dois faire, et que tu devras peut-être faire aussi par  momen
 
 Checklist 
 
-**Pré-rencontre (le jour avant)**: Valider qu’au moins 4 joueurs sont inscrits, vérifier stock de feuille  de score, vérifier stock de feuilles de règles et points, confirmation  au joueur par message, vérifier stock 
+**Pré-rencontre (le jour avant)**: Valider qu’au moins 4 joueurs sont inscrits, vérifier stock de feuilles de score, vérifier stock de feuilles de règles et points, confirmation  au joueur par message, vérifier stock 
 
 **Début de rencontre** tirer les points du jour, les communiquer, indiquer l’ouverture dans conv 
 
-**Setup table**: triger sur demande du joueur: vérifier que la précédente feuille de score est revenue, donner feuille de score vierge, indiquer la date 
+**Setup table**: trigger sur demande du joueur: vérifier que la précédente feuille de score est revenue, donner feuille de score vierge, indiquer la date 
 
-**Lancement table**: triger sur demande joueur, si feuille donné et remplie: Lancer timer, indiquer heure sur feuille de score 
+**Lancement table**: trigger sur demande joueur, si feuille donné et remplie: Lancer timer, indiquer heure sur feuille de score 
 
-**Don de points**: triger sur demande du joueur: verifier capital de point 
+**Don de points**: trigger sur demande du joueur: verifier capital de point 
 
-**Fin de match « naturelle »**: triger sur joueur qui rends feuille de score: Stoper le timer, noter le temps. Vérifier que les noms sont présents et lisibles, la signatures, la date, le temps de jeu (debut), vainqueur,mode de jeu. Revoir les ratures ou texte dur à lire avec le joueur à ce  moment-là, prendre une photo de la feuille, archiver la feuille dans la  farde de score. 
+**Fin de match « naturelle »**: trigger sur joueur qui rend feuille de score: Stopper le timer, noter le temps. Vérifier que les noms sont présents et lisibles, la signatures, la date, le temps de jeu (debut), vainqueur,mode de jeu. Revoir les ratures ou texte dur à lire avec le joueur à ce  moment-là, prendre une photo de la feuille, archiver la feuille dans la  farde de score. 
 
-**Fin de match “timeout”**: trigger sur timer qui sonne: une fois décision prise par les joueurs, relancer timer et mettre a jour feuille de score ou fallback vers Fin de match Naturelle 
+**Fin de match “timeout”**: trigger sur timer qui sonne: une fois décision prise par les joueurs, relancer timer et mettre à jour feuille de score ou fallback vers Fin de match naturelle 
 
-**Fin de rencontre**: vérifier stock de feuille de score et régles/points, message au joueur, indiquer la cloture dans la conv, verifier et mettre a jour stock, rassembler feuille de résultats 
+**Fin de rencontre**: vérifier stock de feuilles de score et régles/points, message aux joueurs, indiquer la cloture dans la conv, verifier et mettre à jour stock, rassembler feuilles de résultats 
 
 **Post-rencontre**: compiler résultats du jour et mettre à jour les résultats en ligne, message aux joueurs une fois fait. 
 
 TODO 
 
-- Mettre de coté boite a matos, mettre de coté 4 porte minns ou 4 crayons/gomme (1/table + “reserve”) 
+- Mettre de coté boite à matos, mettre de coté 4 porte mines ou 4 crayons/gomme (1/table + “réserve”) 
 - Imprimer et plastifier régles 
 
 ### Shoppins List – Bouffe/Boisson 

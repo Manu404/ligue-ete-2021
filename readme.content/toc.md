@@ -6,7 +6,7 @@
 
 ## **Présentation** 
 
-L'esprit de cette ligue est similaire à la première : permettre aux gens de  jouer dans un cadre amicalement compétitif et repartir avec un chouette prizing quel que soit la position dans le classement tout en gardant les frais  d’entré suffisamment bas pour ne pas décourager les joueurs avec moins  de temps. 
+L'esprit de cette ligue est similaire à la première : permettre aux gens de  jouer dans un cadre amicalement compétitif et repartir avec un chouette prizing quel que soit la position dans le classement tout en gardant les frais  d’entrée suffisamment bas pour ne pas décourager les joueurs avec moins  de temps. 
 
 | Contact | Discord       |                           |
 | ------- | ------------- | ------------------------- |
