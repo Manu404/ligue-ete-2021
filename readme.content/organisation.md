@@ -17,7 +17,7 @@ La ligue débute le vendredi 02 juillet et se termine le vendredi 30 juillet.
 Les rencontres ont lieu chez Greg deux fois semaine:
 
 - mercredi, de 18:00 à 22:00
-- jeudi, de 13:00 à 18:00 
+- samedi, de 13:00 à 18:00 
 
 Les joueurs doivent reserver leur place à l'avance via un formulaire doodle. Les réservations se font jusqu’au jour précédent à 20:00. Le but est d’éviter d’avoir trop ou trop peu de monde et permettre de s’organiser. La limite est fixée à 8 joueurs par jour de rencontre. En cas de non-inscription, contacter le TO avant pour verifier les disponibilités. 
 
