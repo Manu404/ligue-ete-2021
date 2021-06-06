@@ -33,7 +33,7 @@ L'esprit de cette ligue est similaire à la première : permettre aux gens de  j
 
 Inscriptions du lundi 07 juin au vendredi 25 juin via: https://forms.gle/UnWomAb4zPNAx5Vu6  
 
-Les frais d’inscriptions sont de 5€ et sont à verser sur le compte <compte> ou à remettre en main propre au TO (Greg ou Manu).   
+Les frais d’inscriptions sont de 5€ et sont à verser sur le compte "*BE37 0835 8497 0728*" ou à remettre en main propre au TO (Greg ou Manu).   
 
 Un participant peut aussi payer son inscription en fournissant des cartes du prizing, à condition que ce soit avant la fin des inscriptions et avant la commande du prizing, ce sera très apprécié et remercié, à voir avec un TO. 
 
