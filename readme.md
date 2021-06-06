@@ -158,9 +158,11 @@ Durant une partie, les joueurs peuvent donner des points à d’autres joueurs, 
 
 ### Babioles 
 
-Des objets, appelé babioles, sont disponibles à l’achat auprès d’un TO et peuvent être acquis entre les parties en dépensant vos points. Le coût en point doit être disponible dans le solde du joueur au début de la journée de rencontre. Lors de l‘achat le token représentant la babiole vous sera donné. 
+Des objets, appelé babioles, sont disponibles à l’achat auprès d’un TO et peuvent être acquis entre les parties en dépensant vos points. Le coût en point doit être disponible dans le solde du joueur au début de la journée de rencontre. Son cout est représenté par des symboles infini, un symbole équivaut a un point. Lors de l‘achat le token représentant la babiole vous sera donné. 
 
 Les babioles sont représentées par des emblèmes et peuvent être mises en jeu, dans la zone de commandement, avant d’avoir pioché sa première main. Chaque joueur doit annoncer qu'il a mis une babiole en jeu. Elles ne peuvent pas être mise en jeu en CEDH. Quand la babiole est utilisée, elle cesse d'exister, elle n’est ni détruite, ni exilée (ne trigger rien et ne va nulle part). Utiliser une babiole est une action spéciale et ne passe donc pas par la stack. Son usage doit être reporté sur la feuille de score. 
+
+Des limites sur le nombre de babioles mise en jeu ou achetées seront mise en place et communiquées rapidement.
 
 | **Cout** | **Effet**                                            | **Nom de l’objet** | **Cible**     | Spoiler order |
 | -------- | ---------------------------------------------------- | ------------------ | ------------- | ------------- |
