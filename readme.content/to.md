@@ -49,3 +49,9 @@ TODO
 | Restock “complet”                                            |                          | 41€           |                            |                    |
 
 (source, delhaize) 
+
+
+
+Comptes:
+
+Greg: Prizing lucas (9) + Nathan (17)
