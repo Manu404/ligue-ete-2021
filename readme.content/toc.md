@@ -1,6 +1,6 @@
 ## **Liens rapides**
 
-Feuille de score => https://edhleage.be/score.pdf
+Feuille de score => https://edhleague.be/score.pdf
 
 Inscription (Du 07 au 25 juin) => https://forms.gle/UnWomAb4zPNAx5Vu6
 
