@@ -55,3 +55,7 @@ TODO
 Comptes:
 
 Greg: Prizing lucas (9) + Nathan (17)
+
+Manu: Prizing Mkm (13 + 25)
+
+Nathan: (12)
