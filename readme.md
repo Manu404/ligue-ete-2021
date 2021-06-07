@@ -193,18 +193,18 @@ Dans le cas d’une partie CEDH, aucune extension de temps ne peut être acheté
 |        | **Nom**                    | **Description**                                              |
 | ------ | -------------------------- | ------------------------------------------------------------ |
 | **-2** | Lâche                      | Abandonner durant le tour d’un adversaire ou à des fins stratégiques |
-| **-1** | Je veux voir votre manager | Gagner sans avoir joué son commandant                       |
+| **-1** | Je veux voir votre manager | Gagner sans avoir joué son commandant                        |
 | **-4** | Buzz                       | Gagner avant le 6éme tour d’un joueur                        |
 | **-2** | On continue à 3?           | Gagner la partie et qu’aucun joueur n’ait perdu de points de vie |
-| **-2** | Infanticide                | Eliminer un adversaire avant son 6éme tour                           |
+| **-2** | Infanticide                | Eliminer un adversaire avant son 6éme tour                   |
 | **-1** | Cancer toxique             | Eliminer plus d’un adversaire avec des marqueurs poisons     |
 | **-2** | Gouffre                    | Détruire/lock la moitié des lands d’un joueur ou une couleur |
-| **-3** | Pas les lands              | Détruire plus de deux lands d’un même joueur autre que soi-même  |
-| **-2** | Solitaire                  | Chercher dans son deck 3 fois dans le même tour |
+| **-3** | Pas les lands              | Détruire plus de deux lands d’un même joueur autre que soi-même |
+| **-2** | Solitaire                  | Chercher dans son deck 3 fois dans le même tour              |
 | **-2** | Greedy McGreederson        | Jouer 3 tours d’affilé                                       |
 | **-1** | Rien de neuf?              | Jouer le même sort 3 fois durant le même tour                |
 | **-1** | Du calme!                  | Jouer plus de deux sorts durant son premier tour             |
-| **-1** | Ma main !?                 | Faire qu’un joueur se défausse de sa main (plus de 2 cartes) |
+| **-1** | Ma main !?                 | Faire qu’un joueur se défausse de sa main (plus de 2 cartes, sauf wheel) |
 | **-2** | Je veux jouer aussi!       | Controler le même joueur deux tours d’affilé                 |
 
 ### Bonus (casual) 
