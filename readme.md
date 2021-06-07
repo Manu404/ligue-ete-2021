@@ -1,8 +1,8 @@
 
 
-[comment]: # "This file is generated, don't modify it, check content subfolder"
+[comment]: # (This file is generated, don't modify it, check content subfolder)
 
-[comment]: # "Ce fichier est généré, ne le modifiez pas, regarder le sous dossier content"
+[comment]: # (Ce fichier est généré, ne le modifiez pas, regarder le sous dossier content)
 # Ligue été 2021
 
 ![](resources/l21Logo.png)
@@ -164,6 +164,11 @@ Les babioles sont représentées par des emblèmes et peuvent être mises en jeu
 
 Des limites sur le nombre de babioles mise en jeu ou achetées seront mise en place et communiquées rapidement.
 
+D'autres babioles seront révélées d'ici le début de la ligue.
+
+| ![](resources/babioles/Fiole%20de%20vie.png) | ![](resources/babioles/Fleurs%20sechès.png) |
+| ![](resources/babioles/Monocle%20des%20pensés.png) | ![](resources/babioles/Baton%20du%20vide.png) |
+
 ### Feuille de score 
 
 Une feuille de score par match sera obtenue auprès d’un TO. La table devra remplir le nom des joueurs et le mode de jeu choisi avant de débuter la partie. À la fin de la partie, chaque joueur devra signer ou parapher la feuille avant de la rendre. Gardez la propre, claire et lisible. La table est responsable de tenir la feuille à jour durant la partie. Quand un point est marqué, un trait doit être indiqué à l’intersection de la ligne et colonne correspondante. Les lignes grisées concernent des points qui peuvent être vérifié en fin de partie. Les 3 lignes du fond concernent les points du jours (cf. Points du jour) N’écrivez qu’au crayon ou encre effaçable pour conserver les feuilles lisibles. (portes mine fourni) 
@@ -204,7 +209,7 @@ Dans le cas d’une partie CEDH, aucune extension de temps ne peut être acheté
 | **-2** | Greedy McGreederson        | Jouer 3 tours d’affilé                                       |
 | **-1** | Rien de neuf?              | Jouer le même sort 3 fois durant le même tour                |
 | **-1** | Du calme!                  | Jouer plus de deux sorts durant son premier tour             |
-| **-1** | Ma main !?                 | Faire qu’un joueur se défausse de sa main (plus de 2 cartes, sauf wheel) |
+| **-1** | Ma main !?                 | Faire qu’un joueur se défausse de sa main (plus de 2 cartes), hors wheel |
 | **-2** | Je veux jouer aussi!       | Controler le même joueur deux tours d’affilé                 |
 
 ### Bonus (casual) 
