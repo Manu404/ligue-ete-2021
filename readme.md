@@ -1,15 +1,10 @@
 
 
-[comment]: # (This file is generated, don't modify it, check content subfolder)
-
-[comment]: # (Ce fichier est généré, ne le modifiez pas, regarder le sous dossier content)
-## **Liens rapides**
-
-Feuille de score => https://edhleague.be/score.pdf
-
-Inscription (Du 07 au 25 juin) => https://forms.gle/UnWomAb4zPNAx5Vu6
-
-Scores: TBD
+| Racourcis                       |                                     |
+| ------------------------------- | ----------------------------------- |
+| Feuille de score                | https://edhleague.be/score.pdf      |
+| Inscriptions (Du 07 au 25 juin) | https://forms.gle/UnWomAb4zPNAx5Vu6 |
+| Scores                          | TBD                                 |
 
 # Ligue été 2021
 
@@ -180,6 +175,7 @@ D'autres babioles seront révélées d'ici le début de la ligue.
 
 | ![](resources/babioles/Fiole%20de%20vie.png) | ![](resources/babioles/Fleurs%20sechès.png) |
 | ![](resources/babioles/Monocle%20des%20pensés.png) | ![](resources/babioles/Baton%20du%20vide.png) |
+| ![](resources/babioles/Potion%20doubli.png) | ![]() |
 
 ### Feuille de score 
 
