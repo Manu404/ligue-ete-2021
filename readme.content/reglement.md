@@ -54,7 +54,7 @@ D'autres babioles seront révélées d'ici le début de la ligue.
 
 | ![](resources/babioles/Fiole%20de%20vie.png) | ![](resources/babioles/Fleurs%20sechès.png) |
 | ![](resources/babioles/Monocle%20des%20pensés.png) | ![](resources/babioles/Baton%20du%20vide.png) |
-| ![](resources/babioles/Potion%20doubli.png) | ![]() |
+| ![](resources/babioles/Potion%20doubli.png) | ![](resources/babioles/Racine%20étrange.png) |
 
 ### Feuille de score 
 

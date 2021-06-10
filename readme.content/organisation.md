@@ -31,10 +31,6 @@ Les résultats sont disponibles en ligne via: <url score>
 
 Les résultats seront mis en ligne au fur et à mesure le plus rapidement possible, compter un ou deux jours. 
 
-### Prizing 
-
-Chaque joueur pourra, par ordre de classement, prendre une carte dans le prizing disponible. Le prizing présenté plus loin est trié par ordre de prix à titre indicatif. Aussi, des tokens, liés au classement, seront remis au top3. Le vainqueur se verra également remettre un trophée porte-carte (identique à celui remis lors de la précédente ligue). Le prizing sera remis début août aux joueurs par ordre de classement. 
-
 ### Materiel 
 
 Une boite, contenant des portes-mines/crayons/gommes pour remplir les feuilles de score et des rappels imprimés et plastifiés des règles ainsi que des points, seront mis à disposition. Prenez soin du matériel et veillez à le laisser dans la salle de jeu. À la fin de la journée, n’hésitez pas à ramener le matériel dans la boite prevue à cet effet. 
