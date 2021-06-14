@@ -21,6 +21,7 @@ build_resource
 clear_file "readme"
 append_section "header" "readme"
 append_section "toc" "readme"
+append_section "changelog" "readme"
 append_section "doodle" "readme"
 append_section "organisation" "readme"
 append_section "prizing" "readme"

@@ -3,6 +3,7 @@
 | Feuille de score                | https://edhleague.be/score.pdf      |
 | Inscriptions (Du 07 au 25 juin) | https://forms.gle/UnWomAb4zPNAx5Vu6 |
 | Scores                          | TBD                                 |
+| Révisions des régles            | https://edhleague.be/changelog.html |
 
 # Ligue été 2021
 

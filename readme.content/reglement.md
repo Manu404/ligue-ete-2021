@@ -4,7 +4,7 @@
 
 ### Déroulement d’un match. 
 
-Pour lancer un match, les joueurs doivent s’être mis d’accord sur le mode de jeu, ensuite une feuille de score pourra être demandée au TO et remplie par les joueurs. Quand les joueurs sont prêts, le TO lance le match en même temps que le timer, le temps est surveillé par le TO. Quand le match est fini, la feuille devra être vérifiée et signée par tous les joueurs de la table et rendue au TO. 
+Pour lancer un match, les joueurs doivent s’être mis d’accord sur le mode de jeu et l'acceptation de joueurs non classé et/ou d'invités, ensuite une feuille de score pourra être demandée au TO et remplie par les joueurs. Quand les joueurs sont prêts, le TO lance le match en même temps que le timer, le temps est surveillé par le TO. Quand le match est fini, la feuille devra être vérifiée et signée par tous les joueurs de la table et rendue au TO. 
 
 ### Modes de jeu : Casual et CEDH 
 
@@ -25,6 +25,10 @@ Le mode de jeu influe sur les règles de points actives ou non, rien n’empêch
 | *Don de points*             | X          | -        |
 | *Mulligan*                  | London     | London   |
 | *Mulligan gratuit*          | 2          | 1        |
+
+### Parties classés
+
+Les joueurs ont droit à 6 matchs classé par semaine. Ils peuvent en jouer plus, mais les points des matchs au dela du 6éme ne seront pas pris en compte. Les joueurs doivent rester "fair play" et la table doit êre d'accord pour acceuilir le joueur. Les joueurs qui participent a la table mais n'ont pas atteint la limite voient leur point comptabilisé et chaque joueur recoit un bonus de 1. Les joueurs avec des matchs restant doivent être mis ensemble en priorité autant que possible. Les joueurs non classé doivent être rensseigné sur la feuille de score. Les parties ne comportant que des joueurs non classé n'ont pas besoin de feuille de score.
 
 ### Points 
 
