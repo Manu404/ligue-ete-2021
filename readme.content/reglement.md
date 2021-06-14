@@ -50,11 +50,13 @@ Les babioles sont représentées par des emblèmes et peuvent être mises en jeu
 
 Des limites sur le nombre de babioles mise en jeu ou achetées seront mise en place et communiquées rapidement.
 
-D'autres babioles seront révélées d'ici le début de la ligue.
+Le babiole en phyrexian pour être acheté unniquement par un joueur si il est capable de donner les régles exactes de la carte.
 
 | ![](resources/babioles/Fiole%20de%20vie.png) | ![](resources/babioles/Fleurs%20sechès.png) |
 | ![](resources/babioles/Monocle%20des%20pensés.png) | ![](resources/babioles/Baton%20du%20vide.png) |
 | ![](resources/babioles/Potion%20doubli.png) | ![](resources/babioles/Racine%20étrange.png) |
+| ![](resources/babioles/Faveur%20des%20dieux.png) | ![](resources/babioles/Tome%20de%20préscience.png) |
+| ![](resources/babioles/mystere.png) |
 
 ### Feuille de score 
 

@@ -23,19 +23,18 @@
 | **-3** | Pas les lands              | Détruire plus de deux lands d’un même joueur autre que soi-même |
 | **-2** | Solitaire                  | Chercher dans son deck 3 fois dans le même tour              |
 | **-2** | Greedy McGreederson        | Jouer 3 tours d’affilé                                       |
-| **-1** | Rien de neuf?              | Jouer le même sort 3 fois durant le même tour                |
+| **-1** | Rien de neuf?              | Jouer le même sort 5 fois durant le même tour                |
 | **-1** | Du calme!                  | Jouer plus de deux sorts durant son premier tour             |
-| **-1** | Ma main !?                 | Faire qu’un joueur se défausse de sa main (plus de 2 cartes), hors wheel |
+| **-1** | Ma main !?                 | Faire qu’un joueur se défausse de sa main (plus de 2 cartes), sans en repiocher au moins la moitié |
 | **-2** | Je veux jouer aussi!       | Controler le même joueur deux tours d’affilé                 |
 
 ### Bonus (casual) 
 
 |        | **Nom**             | **Description**                                              |
 | ------ | ------------------- | ------------------------------------------------------------ |
-| **+1** | Touché              | Etre le premier de la partie à faire un dégât à un joueur    |
 | **+1** | Je gère             | Eliminer un adversaire durant le tour d'un autre adversaire  |
 | **+2** | Nope                | Empêcher ou retarder un combo qui met fin ou lock le match   |
-| **+2** | Cruel mais efficace | Eliminer un adversaire autrement qu’en réduisant sa vie à 0  |
+| **+1** | Cruel mais efficace | Eliminer un adversaire autrement qu’en réduisant sa vie à 0  |
 | **+1** | Généralissime       | Eliminer un adversaire aux dégâts commandeurs |
 | **+1** | Sang frais          | Eliminer un adversaire avec une carte éditée pour la première fois à partir de Strixhaven. |
 | **+1** | Tiens bon!          | Empêcher un joueur de mourir                                 |
@@ -66,7 +65,7 @@ Cfr règlement règles du jours, +1 points chacun (sauf jour de colère et jour 
 | **D20** | **Nom**              | **Description**                                              |
 | ------- | -------------------- | ------------------------------------------------------------ |
 | **1**   | Jour de colère       | À la fin de la partie, chaque joueur, par ordre de priorité, a le choix de faire perdre un point à un autre joueur |
-| **2**   | Nomade               | Finir la partie ou être éliminé avec le moins de land        |
+| **2**   | Touché               | Etre le premier de la partie à faire un dégât à un joueur    |
 | **3**   | Coulé                | Etre le premier joueur à tuer une créature.                  |
 | **4**   | La force de l’esprit | Exiler une créature avec une force supérieure à 11            |
 | **5**   | Loup solitaire       | Finir la partie ou être éliminé en n'ayant invoqué que son commandant comme créature. |
