@@ -51,8 +51,8 @@ Peuvent être vérifié à la fin de la partie.
 | ------ | ------------------------ | ------------------------------------------------------------ |
 | **+1** | Belle magie!             | À la fin de la partie, les joueurs peuvent nommer un play, les joueurs peuvent ensuite voter pour un play nommé et celui avec le plus de vote accorde un point à son auteur. |
 | **+1** | Tu es mon Héro!          | À la fin de la partie, les joueurs votent chacun, secrètement, pour un autre joueur. Le joueur avec le plus de vote remporte un point. |
-| **+1** | Les pv c’est la vie      | Gagner la partieavec 80 points de vie ou plus.               |
-| **+1** | Même pas mal             | Gagner la partieavec moins de 5 points de vie                |
+| **+1** | Les pv c’est la vie      | Gagner la partie avec 80 points de vie ou plus.              |
+| **+1** | Même pas mal             | Gagner la partie avec moins de 5 points de vie               |
 | **+1** | Préfabriqué              | Jouer avec un deck préconstruit non modifié                  |
 | **+1** | Elder Dragon Social Club | Jouer avec un deck préconstruit non modifié, et vos adversaires utilisent aussi tous un préconstruit non modifié. |
 | **+1** | Futé                     | Jouer avec un deck ne contenant aucune rare hors commandant. (rareté la plus basse si plusieurs éditions) |
