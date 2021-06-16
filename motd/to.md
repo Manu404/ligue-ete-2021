@@ -56,6 +56,6 @@ Comptes:
 
 Greg: Prizing lucas (9)
 
-Manu: Prizing Mkm (13 + 25) + Nathan (17)
+Manu: Prizing Mkm (4 (greaves) + 9 (maze) + 25 (cmdr, negate, wrath, tokens)) + Nathan (17, rift)
 
-Nathan: (12)
+Nathan: (12, credit restant a rmbrs)
