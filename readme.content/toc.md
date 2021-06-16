@@ -23,6 +23,6 @@ La ligue était initialement à but privé, l'ouverture des commerce se mettant 
 | ------- | ------------- | ------------------------- |
 | Manu    | Manu404#6726  | contact@emmanuelistace.be |
 | Greg    | Yberamos#2213 | gregoiredemoulin2@gmail.com |
-| Robson |  |  |
+| Robson | Roby#3191 | robson_dechamps@hotmail.com |
 | Joffrey (Autre monde)    |  | 04 221 41 10 |
 
